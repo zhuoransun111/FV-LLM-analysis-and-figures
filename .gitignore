@@ -1,0 +1,14 @@
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.py[cod]
+*.swp
+*.tmp
+*.log
+.venv/
+
+# Restricted participant-level data obtained under a data-use agreement.
+data/analysis_dataset.csv
+data/analysis_dataset_deduplicated.csv
+

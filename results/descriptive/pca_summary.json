@@ -1,0 +1,24 @@
+[
+  {
+    "panel": "Expert",
+    "input_rows": 1300,
+    "complete_case_rows": 1299,
+    "rows_excluded_for_any_missing_item": 1,
+    "standardization": "item-wise mean 0 and population SD 1 (ddof=0)",
+    "rotation": "none",
+    "PC1_explained_variance_percent": 73.48733671458373,
+    "PC2_explained_variance_percent": 12.921773817071076,
+    "cronbach_alpha_complete_cases": 0.927446761707236
+  },
+  {
+    "panel": "Parent",
+    "input_rows": 1300,
+    "complete_case_rows": 1300,
+    "rows_excluded_for_any_missing_item": 0,
+    "standardization": "item-wise mean 0 and population SD 1 (ddof=0)",
+    "rotation": "none",
+    "PC1_explained_variance_percent": 79.9134751258106,
+    "PC2_explained_variance_percent": 8.41182144104164,
+    "cronbach_alpha_complete_cases": 0.9494769478364794
+  }
+]

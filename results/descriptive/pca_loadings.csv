@@ -1,0 +1,13 @@
+panel,item_code,rating_item,PC1_loading,PC2_loading
+Expert,Q1OEAE,Correctness/reliability,-0.42879588,0.27690581
+Expert,Q2OEAA,Clarity,-0.43674055,0.08354033
+Expert,Q3OEAA,Completeness,-0.42781765,0.24634431
+Expert,Q4OEOEOE,Empathy,-0.42742082,-0.05231225
+Expert,Q5OEAA,Fairness/non-misleadingness,-0.43328113,0.02167601
+Expert,Q6OEAEOEOE,Perceived absence of bias,-0.26822146,-0.92328341
+Parent,Q1OEAE,Correctness/reliability,-0.42015317,0.14677625
+Parent,Q2OEAA,Clarity,-0.40790432,0.26015858
+Parent,Q3OEAA,Completeness,-0.41810682,0.20612438
+Parent,Q4OEOEOE,Empathy,-0.42643585,0.15685312
+Parent,Q5OEAA,Fairness/non-misleadingness,-0.42668317,-0.01141507
+Parent,Q6OEAEOEOE,Perceived absence of bias,-0.34404362,-0.91845184

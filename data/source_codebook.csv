@@ -1,0 +1,14 @@
+group_code,response_source
+1,FV-LLM full configuration
+2,RAG
+3,RAG+Focus
+4,GPT-4o
+5,Qwen3-Plus
+6,Claude Sonnet 4
+7,GPT-5
+8,DeepSeek-chat
+9,Gemini 2.5 Pro
+10,Vaccination-clinic physicians
+11,Parents without internet
+12,Parents with web search
+13,General practitioners
