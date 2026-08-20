@@ -56,7 +56,9 @@ def create_figure() -> None:
 
     box(0.55, 7.35, 2.65, 0.55, r"Vaccination-clinic physicians ($n$ = 10)", size=7.2)
     box(0.55, 6.66, 2.65, 0.55, r"General practitioners ($n$ = 10)", size=7.4)
-    box(0.55, 5.97, 2.65, 0.55, r"Same parents ($n$ = 10):" "\nwithout / with web search", size=7.0)
+    box(0.55, 5.97, 2.65, 0.55,
+        r"Two distinct parent groups ($n$ = 10 each):" "\nwithout internet | with web search",
+        size=6.45)
     box(4.67, 7.35, 2.66, 0.55, "Full Model (RAG + Focus + tools)", size=7.35)
     box(4.67, 6.66, 2.66, 0.55, "RAG", size=7.8)
     box(4.67, 5.97, 2.66, 0.55, "RAG + Focus", size=7.8)
@@ -89,7 +91,7 @@ def create_figure() -> None:
     arrow(7.0, 4.70, 8.82, 3.62)
     box(0.85, 1.52, 10.30, 0.90,
         "Six 1–5 Likert items\nCorrectness/reliability | Clarity | Completeness\n"
-        "Empathy | Fairness/non-misleadingness | Perceived absence of bias",
+        "Empathy | Fair and non-misleading | Perceived absence of bias",
         size=7.1)
     arrow(3.18, 2.90, 3.18, 2.42)
     arrow(8.82, 2.90, 8.82, 2.42)

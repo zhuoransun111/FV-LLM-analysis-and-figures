@@ -1,313 +1,313 @@
 outcome,panel,group_code,source,difficulty,adjusted_mean,mean_length_100,converged
-Accuracy,Expert,1,FV-LLM full configuration,Simple,4.1444793995970315,1.4961692307692307,True
-Accuracy,Expert,1,FV-LLM full configuration,Hard,3.7973652214441906,1.4961692307692307,True
-Accuracy,Parent,1,FV-LLM full configuration,Simple,4.192208225435069,1.4961692307692307,True
-Accuracy,Parent,1,FV-LLM full configuration,Hard,4.255301966537549,1.4961692307692307,True
-Accuracy,Expert,2,RAG,Simple,4.3206243700321725,1.4961692307692307,True
-Accuracy,Expert,2,RAG,Hard,4.17221803367457,1.4961692307692307,True
-Accuracy,Parent,2,RAG,Simple,4.163088919033058,1.4961692307692307,True
-Accuracy,Parent,2,RAG,Hard,4.194310749329498,1.4961692307692307,True
-Accuracy,Expert,3,RAG+Focus,Simple,4.0372447367933635,1.4961692307692307,True
-Accuracy,Expert,3,RAG+Focus,Hard,4.03813582925148,1.4961692307692307,True
-Accuracy,Parent,3,RAG+Focus,Simple,4.2011552641252,1.4961692307692307,True
-Accuracy,Parent,3,RAG+Focus,Hard,4.001397086105122,1.4961692307692307,True
-Accuracy,Expert,4,GPT-4o,Simple,4.134538854757664,1.4961692307692307,True
-Accuracy,Expert,4,GPT-4o,Hard,3.8384677892342784,1.4961692307692307,True
-Accuracy,Parent,4,GPT-4o,Simple,4.280209961072254,1.4961692307692307,True
-Accuracy,Parent,4,GPT-4o,Hard,4.016781152867827,1.4961692307692307,True
-Accuracy,Expert,5,Qwen3-Plus,Simple,4.0312924888257395,1.4961692307692307,True
-Accuracy,Expert,5,Qwen3-Plus,Hard,3.698710043984752,1.4961692307692307,True
-Accuracy,Parent,5,Qwen3-Plus,Simple,4.295124964750759,1.4961692307692307,True
-Accuracy,Parent,5,Qwen3-Plus,Hard,4.122789731893969,1.4961692307692307,True
-Accuracy,Expert,6,Claude Sonnet 4,Simple,3.8968325161198996,1.4961692307692307,True
-Accuracy,Expert,6,Claude Sonnet 4,Hard,3.4628611140448236,1.4961692307692307,True
-Accuracy,Parent,6,Claude Sonnet 4,Simple,4.639844098619648,1.4961692307692307,True
-Accuracy,Parent,6,Claude Sonnet 4,Hard,3.9732025599815994,1.4961692307692307,True
-Accuracy,Expert,7,GPT-5,Simple,3.927469280167669,1.4961692307692307,True
-Accuracy,Expert,7,GPT-5,Hard,3.5068581838140336,1.4961692307692307,True
-Accuracy,Parent,7,GPT-5,Simple,4.218243096828202,1.4961692307692307,True
-Accuracy,Parent,7,GPT-5,Hard,4.230818536404552,1.4961692307692307,True
-Accuracy,Expert,8,DeepSeek-chat,Simple,4.156681219335779,1.4961692307692307,True
-Accuracy,Expert,8,DeepSeek-chat,Hard,3.8455294593918845,1.4961692307692307,True
-Accuracy,Parent,8,DeepSeek-chat,Simple,4.061732886423279,1.4961692307692307,True
-Accuracy,Parent,8,DeepSeek-chat,Hard,4.005508443026884,1.4961692307692307,True
-Accuracy,Expert,9,Gemini 2.5 Pro,Simple,3.8208795422316113,1.4961692307692307,True
-Accuracy,Expert,9,Gemini 2.5 Pro,Hard,3.616714794439361,1.4961692307692307,True
-Accuracy,Parent,9,Gemini 2.5 Pro,Simple,3.9272765659707174,1.4961692307692307,True
-Accuracy,Parent,9,Gemini 2.5 Pro,Hard,4.001118976973798,1.4961692307692307,True
-Accuracy,Expert,10,Vaccination-clinic physicians,Simple,2.9101445417139082,1.4961692307692307,True
-Accuracy,Expert,10,Vaccination-clinic physicians,Hard,2.5136165147022007,1.4961692307692307,True
-Accuracy,Parent,10,Vaccination-clinic physicians,Simple,4.011998169984958,1.4961692307692307,True
-Accuracy,Parent,10,Vaccination-clinic physicians,Hard,3.681425123543383,1.4961692307692307,True
-Accuracy,Expert,11,Parents without internet,Simple,2.4250816278953495,1.4961692307692307,True
-Accuracy,Expert,11,Parents without internet,Hard,1.9734081828945995,1.4961692307692307,True
-Accuracy,Parent,11,Parents without internet,Simple,3.389329271323576,1.4961692307692307,True
-Accuracy,Parent,11,Parents without internet,Hard,3.1799583967506106,1.4961692307692307,True
-Accuracy,Expert,12,Parents with web search,Simple,2.838933086829829,1.4961692307692307,True
-Accuracy,Expert,12,Parents with web search,Hard,2.821027434346637,1.4961692307692307,True
-Accuracy,Parent,12,Parents with web search,Simple,3.777728920315845,1.4961692307692307,True
-Accuracy,Parent,12,Parents with web search,Hard,3.73923583722821,1.4961692307692307,True
-Accuracy,Expert,13,General practitioners,Simple,3.140100186696885,1.4961692307692307,True
-Accuracy,Expert,13,General practitioners,Hard,2.475701820675374,1.4961692307692307,True
-Accuracy,Parent,13,General practitioners,Simple,3.898001393448165,1.4961692307692307,True
-Accuracy,Parent,13,General practitioners,Hard,3.943863687215135,1.4961692307692307,True
-Clarity,Expert,1,FV-LLM full configuration,Simple,4.168816500313293,1.4961692307692307,True
-Clarity,Expert,1,FV-LLM full configuration,Hard,3.905540466533989,1.4961692307692307,True
-Clarity,Parent,1,FV-LLM full configuration,Simple,4.384988067762451,1.4961692307692307,True
-Clarity,Parent,1,FV-LLM full configuration,Hard,4.273459429553273,1.4961692307692307,True
-Clarity,Expert,2,RAG,Simple,4.28073991639158,1.4961692307692307,True
-Clarity,Expert,2,RAG,Hard,4.2352648966534785,1.4961692307692307,True
-Clarity,Parent,2,RAG,Simple,4.231577673919992,1.4961692307692307,True
-Clarity,Parent,2,RAG,Hard,4.1340153319101764,1.4961692307692307,True
-Clarity,Expert,3,RAG+Focus,Simple,4.04850833788511,1.4961692307692307,True
-Clarity,Expert,3,RAG+Focus,Hard,4.06348583567399,1.4961692307692307,True
-Clarity,Parent,3,RAG+Focus,Simple,4.383987005685602,1.4961692307692307,True
-Clarity,Parent,3,RAG+Focus,Hard,4.117992940153224,1.4961692307692307,True
-Clarity,Expert,4,GPT-4o,Simple,4.205938912753885,1.4961692307692307,True
-Clarity,Expert,4,GPT-4o,Hard,3.9186125497391338,1.4961692307692307,True
-Clarity,Parent,4,GPT-4o,Simple,4.380695496497328,1.4961692307692307,True
-Clarity,Parent,4,GPT-4o,Hard,3.9740383026285806,1.4961692307692307,True
-Clarity,Expert,5,Qwen3-Plus,Simple,4.112450401425313,1.4961692307692307,True
-Clarity,Expert,5,Qwen3-Plus,Hard,3.8854862035576194,1.4961692307692307,True
-Clarity,Parent,5,Qwen3-Plus,Simple,4.300466378820252,1.4961692307692307,True
-Clarity,Parent,5,Qwen3-Plus,Hard,4.172496267560618,1.4961692307692307,True
-Clarity,Expert,6,Claude Sonnet 4,Simple,3.886355740527332,1.4961692307692307,True
-Clarity,Expert,6,Claude Sonnet 4,Hard,3.696568002496808,1.4961692307692307,True
-Clarity,Parent,6,Claude Sonnet 4,Simple,4.604839719729055,1.4961692307692307,True
-Clarity,Parent,6,Claude Sonnet 4,Hard,4.04326671267674,1.4961692307692307,True
-Clarity,Expert,7,GPT-5,Simple,3.8553185127452703,1.4961692307692307,True
-Clarity,Expert,7,GPT-5,Hard,3.5721172746388454,1.4961692307692307,True
-Clarity,Parent,7,GPT-5,Simple,4.238266392072609,1.4961692307692307,True
-Clarity,Parent,7,GPT-5,Hard,4.256264565318859,1.4961692307692307,True
-Clarity,Expert,8,DeepSeek-chat,Simple,4.219096780744475,1.4961692307692307,True
-Clarity,Expert,8,DeepSeek-chat,Hard,4.1203194182612455,1.4961692307692307,True
-Clarity,Parent,8,DeepSeek-chat,Simple,4.260924039030705,1.4961692307692307,True
-Clarity,Parent,8,DeepSeek-chat,Hard,3.927151887557073,1.4961692307692307,True
-Clarity,Expert,9,Gemini 2.5 Pro,Simple,4.003132706820288,1.4961692307692307,True
-Clarity,Expert,9,Gemini 2.5 Pro,Hard,3.7360212645716175,1.4961692307692307,True
-Clarity,Parent,9,Gemini 2.5 Pro,Simple,4.035408692786249,1.4961692307692307,True
-Clarity,Parent,9,Gemini 2.5 Pro,Hard,4.088584221646464,1.4961692307692307,True
-Clarity,Expert,10,Vaccination-clinic physicians,Simple,2.896792031071972,1.4961692307692307,True
-Clarity,Expert,10,Vaccination-clinic physicians,Hard,2.567028179363039,1.4961692307692307,True
-Clarity,Parent,10,Vaccination-clinic physicians,Simple,3.664936509025578,1.4961692307692307,True
-Clarity,Parent,10,Vaccination-clinic physicians,Hard,3.5175277897271986,1.4961692307692307,True
-Clarity,Expert,11,Parents without internet,Simple,2.418230769535561,1.4961692307692307,True
-Clarity,Expert,11,Parents without internet,Hard,1.984053629571203,1.4961692307692307,True
-Clarity,Parent,11,Parents without internet,Simple,3.375884117572136,1.4961692307692307,True
-Clarity,Parent,11,Parents without internet,Hard,3.1838640183321525,1.4961692307692307,True
-Clarity,Expert,12,Parents with web search,Simple,2.7903745614075017,1.4961692307692307,True
-Clarity,Expert,12,Parents with web search,Hard,2.8858497963959557,1.4961692307692307,True
-Clarity,Parent,12,Parents with web search,Simple,3.6516221213181748,1.4961692307692307,True
-Clarity,Parent,12,Parents with web search,Hard,3.6796822545626084,1.4961692307692307,True
-Clarity,Expert,13,General practitioners,Simple,3.068959156040045,1.4961692307692307,True
-Clarity,Expert,13,General practitioners,Hard,2.6254770901548508,1.4961692307692307,True
-Clarity,Parent,13,General practitioners,Simple,3.8189749117579286,1.4961692307692307,True
-Clarity,Parent,13,General practitioners,Hard,3.6577044984575764,1.4961692307692307,True
-Completeness,Expert,1,FV-LLM full configuration,Simple,3.711387742549036,1.4961692307692307,True
-Completeness,Expert,1,FV-LLM full configuration,Hard,3.5911866622635857,1.4961692307692307,True
-Completeness,Parent,1,FV-LLM full configuration,Simple,4.085884399107586,1.4961692307692307,True
-Completeness,Parent,1,FV-LLM full configuration,Hard,4.088356312933093,1.4961692307692307,True
-Completeness,Expert,2,RAG,Simple,3.958794391422514,1.4961692307692307,True
-Completeness,Expert,2,RAG,Hard,4.015307216723857,1.4961692307692307,True
-Completeness,Parent,2,RAG,Simple,3.922248740745838,1.4961692307692307,True
-Completeness,Parent,2,RAG,Hard,3.829700263148637,1.4961692307692307,True
-Completeness,Expert,3,RAG+Focus,Simple,3.6048838021073566,1.4961692307692307,True
-Completeness,Expert,3,RAG+Focus,Hard,3.8693255070206827,1.4961692307692307,True
-Completeness,Parent,3,RAG+Focus,Simple,3.930266721094991,1.4961692307692307,True
-Completeness,Parent,3,RAG+Focus,Hard,3.9535828917880784,1.4961692307692307,True
-Completeness,Expert,4,GPT-4o,Simple,3.7698669042113044,1.4961692307692307,True
-Completeness,Expert,4,GPT-4o,Hard,3.5613862025042042,1.4961692307692307,True
-Completeness,Parent,4,GPT-4o,Simple,4.042648068517238,1.4961692307692307,True
-Completeness,Parent,4,GPT-4o,Hard,3.667033433670856,1.4961692307692307,True
-Completeness,Expert,5,Qwen3-Plus,Simple,3.64252011926196,1.4961692307692307,True
-Completeness,Expert,5,Qwen3-Plus,Hard,3.6146662274995194,1.4961692307692307,True
-Completeness,Parent,5,Qwen3-Plus,Simple,3.952970410785779,1.4961692307692307,True
-Completeness,Parent,5,Qwen3-Plus,Hard,3.93655947793232,1.4961692307692307,True
-Completeness,Expert,6,Claude Sonnet 4,Simple,3.5723376031912375,1.4961692307692307,True
-Completeness,Expert,6,Claude Sonnet 4,Hard,3.3020774505332056,1.4961692307692307,True
-Completeness,Parent,6,Claude Sonnet 4,Simple,4.231371461101864,1.4961692307692307,True
-Completeness,Parent,6,Claude Sonnet 4,Hard,3.7934051867477567,1.4961692307692307,True
-Completeness,Expert,7,GPT-5,Simple,3.52574722814361,1.4961692307692307,True
-Completeness,Expert,7,GPT-5,Hard,3.322600911305876,1.4961692307692307,True
-Completeness,Parent,7,GPT-5,Simple,4.0351668792041195,1.4961692307692307,True
-Completeness,Parent,7,GPT-5,Hard,4.028219411035781,1.4961692307692307,True
-Completeness,Expert,8,DeepSeek-chat,Simple,4.074144981660476,1.4961692307692307,True
-Completeness,Expert,8,DeepSeek-chat,Hard,3.5787972067014695,1.4961692307692307,True
-Completeness,Parent,8,DeepSeek-chat,Simple,3.8026127175079125,1.4961692307692307,True
-Completeness,Parent,8,DeepSeek-chat,Hard,3.61482158003045,1.4961692307692307,True
-Completeness,Expert,9,Gemini 2.5 Pro,Simple,3.402683234690255,1.4961692307692307,True
-Completeness,Expert,9,Gemini 2.5 Pro,Hard,3.3051523163812933,1.4961692307692307,True
-Completeness,Parent,9,Gemini 2.5 Pro,Simple,3.6161506887006327,1.4961692307692307,True
-Completeness,Parent,9,Gemini 2.5 Pro,Hard,3.810588260070825,1.4961692307692307,True
-Completeness,Expert,10,Vaccination-clinic physicians,Simple,2.5647518733159007,1.4961692307692307,True
-Completeness,Expert,10,Vaccination-clinic physicians,Hard,2.2472258803892564,1.4961692307692307,True
-Completeness,Parent,10,Vaccination-clinic physicians,Simple,3.37446631604858,1.4961692307692307,True
-Completeness,Parent,10,Vaccination-clinic physicians,Hard,3.108107636436801,1.4961692307692307,True
-Completeness,Expert,11,Parents without internet,Simple,2.061052434101005,1.4961692307692307,True
-Completeness,Expert,11,Parents without internet,Hard,1.8117673187690557,1.4961692307692307,True
-Completeness,Parent,11,Parents without internet,Simple,3.009000559718778,1.4961692307692307,True
-Completeness,Parent,11,Parents without internet,Hard,2.9446069547029454,1.4961692307692307,True
-Completeness,Expert,12,Parents with web search,Simple,2.394698555082773,1.4961692307692307,True
-Completeness,Expert,12,Parents with web search,Hard,2.599139019348291,1.4961692307692307,True
-Completeness,Parent,12,Parents with web search,Simple,3.267205428953184,1.4961692307692307,True
-Completeness,Parent,12,Parents with web search,Hard,3.520044971666191,1.4961692307692307,True
-Completeness,Expert,13,General practitioners,Simple,2.559461859998439,1.4961692307692307,True
-Completeness,Expert,13,General practitioners,Hard,2.1648250598834906,1.4961692307692307,True
-Completeness,Parent,13,General practitioners,Simple,3.410390242629379,1.4961692307692307,True
-Completeness,Parent,13,General practitioners,Hard,3.2479906368109446,1.4961692307692307,True
-Empathy,Expert,1,FV-LLM full configuration,Simple,4.184857893501303,1.4961692307692307,True
-Empathy,Expert,1,FV-LLM full configuration,Hard,3.7831973119208997,1.4961692307692307,True
-Empathy,Parent,1,FV-LLM full configuration,Simple,4.246068478124867,1.4961692307692307,True
-Empathy,Parent,1,FV-LLM full configuration,Hard,4.010983458197423,1.4961692307692307,True
-Empathy,Expert,2,RAG,Simple,4.137012452480779,1.4961692307692307,True
-Empathy,Expert,2,RAG,Hard,4.140287261790718,1.4961692307692307,True
-Empathy,Parent,2,RAG,Simple,4.076304615458529,1.4961692307692307,True
-Empathy,Parent,2,RAG,Hard,3.8598078852728888,1.4961692307692307,True
-Empathy,Expert,3,RAG+Focus,Simple,4.03913965355573,1.4961692307692307,True
-Empathy,Expert,3,RAG+Focus,Hard,4.042752389859382,1.4961692307692307,True
-Empathy,Parent,3,RAG+Focus,Simple,4.135243062581663,1.4961692307692307,True
-Empathy,Parent,3,RAG+Focus,Hard,3.951973244537344,1.4961692307692307,True
-Empathy,Expert,4,GPT-4o,Simple,4.195873751927481,1.4961692307692307,True
-Empathy,Expert,4,GPT-4o,Hard,3.8835592009497004,1.4961692307692307,True
-Empathy,Parent,4,GPT-4o,Simple,4.3638542594181695,1.4961692307692307,True
-Empathy,Parent,4,GPT-4o,Hard,3.9047907180827903,1.4961692307692307,True
-Empathy,Expert,5,Qwen3-Plus,Simple,4.1280900213619525,1.4961692307692307,True
-Empathy,Expert,5,Qwen3-Plus,Hard,3.961977912128991,1.4961692307692307,True
-Empathy,Parent,5,Qwen3-Plus,Simple,4.1660643947106895,1.4961692307692307,True
-Empathy,Parent,5,Qwen3-Plus,Hard,4.048282789782714,1.4961692307692307,True
-Empathy,Expert,6,Claude Sonnet 4,Simple,3.9040736246297145,1.4961692307692307,True
-Empathy,Expert,6,Claude Sonnet 4,Hard,3.8552567384591736,1.4961692307692307,True
-Empathy,Parent,6,Claude Sonnet 4,Simple,4.53308023087105,1.4961692307692307,True
-Empathy,Parent,6,Claude Sonnet 4,Hard,3.9283730758583175,1.4961692307692307,True
-Empathy,Expert,7,GPT-5,Simple,3.818936157104336,1.4961692307692307,True
-Empathy,Expert,7,GPT-5,Hard,3.6642951262228096,1.4961692307692307,True
-Empathy,Parent,7,GPT-5,Simple,4.22753835350369,1.4961692307692307,True
-Empathy,Parent,7,GPT-5,Hard,4.143386463820606,1.4961692307692307,True
-Empathy,Expert,8,DeepSeek-chat,Simple,4.1840557881621105,1.4961692307692307,True
-Empathy,Expert,8,DeepSeek-chat,Hard,4.090259839682255,1.4961692307692307,True
-Empathy,Parent,8,DeepSeek-chat,Simple,4.215844867414473,1.4961692307692307,True
-Empathy,Parent,8,DeepSeek-chat,Hard,3.851380209575411,1.4961692307692307,True
-Empathy,Expert,9,Gemini 2.5 Pro,Simple,3.893387517123483,1.4961692307692307,True
-Empathy,Expert,9,Gemini 2.5 Pro,Hard,3.772104620484756,1.4961692307692307,True
-Empathy,Parent,9,Gemini 2.5 Pro,Simple,3.880068862098243,1.4961692307692307,True
-Empathy,Parent,9,Gemini 2.5 Pro,Hard,4.099423836241502,1.4961692307692307,True
-Empathy,Expert,10,Vaccination-clinic physicians,Simple,3.0372290677508538,1.4961692307692307,True
-Empathy,Expert,10,Vaccination-clinic physicians,Hard,2.7658338858333096,1.4961692307692307,True
-Empathy,Parent,10,Vaccination-clinic physicians,Simple,3.4028137853452716,1.4961692307692307,True
-Empathy,Parent,10,Vaccination-clinic physicians,Hard,3.158118654027318,1.4961692307692307,True
-Empathy,Expert,11,Parents without internet,Simple,2.5478829233559424,1.4961692307692307,True
-Empathy,Expert,11,Parents without internet,Hard,2.0992002397165743,1.4961692307692307,True
-Empathy,Parent,11,Parents without internet,Simple,2.9830353080204866,1.4961692307692307,True
-Empathy,Parent,11,Parents without internet,Hard,2.9149871542644084,1.4961692307692307,True
-Empathy,Expert,12,Parents with web search,Simple,2.8112601652063733,1.4961692307692307,True
-Empathy,Expert,12,Parents with web search,Hard,3.2341403963699062,1.4961692307692307,True
-Empathy,Parent,12,Parents with web search,Simple,3.2560046122476214,1.4961692307692307,True
-Empathy,Parent,12,Parents with web search,Hard,3.5312631716677965,1.4961692307692307,True
-Empathy,Expert,13,General practitioners,Simple,2.888033339651896,1.4961692307692307,True
-Empathy,Expert,13,General practitioners,Hard,2.924228439151919,1.4961692307692307,True
-Empathy,Parent,13,General practitioners,Simple,3.5476828852591016,1.4961692307692307,True
-Empathy,Parent,13,General practitioners,Hard,3.354594325336972,1.4961692307692307,True
-Safety,Expert,1,FV-LLM full configuration,Simple,4.122434249578773,1.4961692307692307,True
-Safety,Expert,1,FV-LLM full configuration,Hard,3.865783195558084,1.4961692307692307,True
-Safety,Parent,1,FV-LLM full configuration,Simple,4.203269754665351,1.4961692307692307,True
-Safety,Parent,1,FV-LLM full configuration,Hard,4.217613116637487,1.4961692307692307,True
-Safety,Expert,2,RAG,Simple,4.257846035368511,1.4961692307692307,True
-Safety,Expert,2,RAG,Hard,4.21968767598726,1.4961692307692307,True
-Safety,Parent,2,RAG,Simple,4.266781823538144,1.4961692307692307,True
-Safety,Parent,2,RAG,Hard,4.158214300220008,1.4961692307692307,True
-Safety,Expert,3,RAG+Focus,Simple,4.065357125792773,1.4961692307692307,True
-Safety,Expert,3,RAG+Focus,Hard,4.055211751916239,1.4961692307692307,True
-Safety,Parent,3,RAG+Focus,Simple,4.276283745597969,1.4961692307692307,True
-Safety,Parent,3,RAG+Focus,Hard,4.201015985737852,1.4961692307692307,True
-Safety,Expert,4,GPT-4o,Simple,4.07269341822097,1.4961692307692307,True
-Safety,Expert,4,GPT-4o,Hard,4.0315397316138855,1.4961692307692307,True
-Safety,Parent,4,GPT-4o,Simple,4.256568491697539,1.4961692307692307,True
-Safety,Parent,4,GPT-4o,Hard,3.9418603479920864,1.4961692307692307,True
-Safety,Expert,5,Qwen3-Plus,Simple,4.054264078887151,1.4961692307692307,True
-Safety,Expert,5,Qwen3-Plus,Hard,3.882006936118797,1.4961692307692307,True
-Safety,Parent,5,Qwen3-Plus,Simple,4.257446980054015,1.4961692307692307,True
-Safety,Parent,5,Qwen3-Plus,Hard,4.167531712186692,1.4961692307692307,True
-Safety,Expert,6,Claude Sonnet 4,Simple,3.939386035664627,1.4961692307692307,True
-Safety,Expert,6,Claude Sonnet 4,Hard,3.8029968628496507,1.4961692307692307,True
-Safety,Parent,6,Claude Sonnet 4,Simple,4.548677640608332,1.4961692307692307,True
-Safety,Parent,6,Claude Sonnet 4,Hard,4.039180030085922,1.4961692307692307,True
-Safety,Expert,7,GPT-5,Simple,3.9353000874811097,1.4961692307692307,True
-Safety,Expert,7,GPT-5,Hard,3.690453200818431,1.4961692307692307,True
-Safety,Parent,7,GPT-5,Simple,4.2471480963164465,1.4961692307692307,True
-Safety,Parent,7,GPT-5,Hard,4.205101688990032,1.4961692307692307,True
-Safety,Expert,8,DeepSeek-chat,Simple,4.083006533379499,1.4961692307692307,True
-Safety,Expert,8,DeepSeek-chat,Hard,4.026189533662965,1.4961692307692307,True
-Safety,Parent,8,DeepSeek-chat,Simple,4.125599339705223,1.4961692307692307,True
-Safety,Parent,8,DeepSeek-chat,Hard,4.017850013678753,1.4961692307692307,True
-Safety,Expert,9,Gemini 2.5 Pro,Simple,3.943808998149089,1.4961692307692307,True
-Safety,Expert,9,Gemini 2.5 Pro,Hard,3.7706206952907464,1.4961692307692307,True
-Safety,Parent,9,Gemini 2.5 Pro,Simple,4.035366150117362,1.4961692307692307,True
-Safety,Parent,9,Gemini 2.5 Pro,Hard,4.078419243439803,1.4961692307692307,True
-Safety,Expert,10,Vaccination-clinic physicians,Simple,3.160008733246917,1.4961692307692307,True
-Safety,Expert,10,Vaccination-clinic physicians,Hard,2.921199505582428,1.4961692307692307,True
-Safety,Parent,10,Vaccination-clinic physicians,Simple,3.6013392366492116,1.4961692307692307,True
-Safety,Parent,10,Vaccination-clinic physicians,Hard,3.4953571168880995,1.4961692307692307,True
-Safety,Expert,11,Parents without internet,Simple,2.452527804941313,1.4961692307692307,True
-Safety,Expert,11,Parents without internet,Hard,2.2423071007900868,1.4961692307692307,True
-Safety,Parent,11,Parents without internet,Simple,3.1419455659316666,1.4961692307692307,True
-Safety,Parent,11,Parents without internet,Hard,2.9181927509169103,1.4961692307692307,True
-Safety,Expert,12,Parents with web search,Simple,2.9694590319013376,1.4961692307692307,True
-Safety,Expert,12,Parents with web search,Hard,3.2001320008566694,1.4961692307692307,True
-Safety,Parent,12,Parents with web search,Simple,3.5637831149479062,1.4961692307692307,True
-Safety,Parent,12,Parents with web search,Hard,3.5778695452559877,1.4961692307692307,True
-Safety,Expert,13,General practitioners,Simple,3.1801484743151702,1.4961692307692307,True
-Safety,Expert,13,General practitioners,Hard,2.774580323317138,1.4961692307692307,True
-Safety,Parent,13,General practitioners,Simple,3.5400079838091028,1.4961692307692307,True
-Safety,Parent,13,General practitioners,Hard,3.6643665315720337,1.4961692307692307,True
-Perceived absence of bias,Expert,1,FV-LLM full configuration,Simple,4.626894549321452,1.4961692307692307,True
-Perceived absence of bias,Expert,1,FV-LLM full configuration,Hard,4.552969963653516,1.4961692307692307,True
-Perceived absence of bias,Parent,1,FV-LLM full configuration,Simple,4.429928898216095,1.4961692307692307,True
-Perceived absence of bias,Parent,1,FV-LLM full configuration,Hard,4.404127340652406,1.4961692307692307,True
-Perceived absence of bias,Expert,2,RAG,Simple,4.748035287920542,1.4961692307692307,True
-Perceived absence of bias,Expert,2,RAG,Hard,4.753070525886682,1.4961692307692307,True
-Perceived absence of bias,Parent,2,RAG,Simple,4.452310128673272,1.4961692307692307,True
-Perceived absence of bias,Parent,2,RAG,Hard,4.351261247776583,1.4961692307692307,True
-Perceived absence of bias,Expert,3,RAG+Focus,Simple,4.602570302294811,1.4961692307692307,True
-Perceived absence of bias,Expert,3,RAG+Focus,Hard,4.726919072751902,1.4961692307692307,True
-Perceived absence of bias,Parent,3,RAG+Focus,Simple,4.554976439489415,1.4961692307692307,True
-Perceived absence of bias,Parent,3,RAG+Focus,Hard,4.370189227634911,1.4961692307692307,True
-Perceived absence of bias,Expert,4,GPT-4o,Simple,4.701848793456056,1.4961692307692307,True
-Perceived absence of bias,Expert,4,GPT-4o,Hard,4.571984021034174,1.4961692307692307,True
-Perceived absence of bias,Parent,4,GPT-4o,Simple,4.42786378846973,1.4961692307692307,True
-Perceived absence of bias,Parent,4,GPT-4o,Hard,4.2928762690384445,1.4961692307692307,True
-Perceived absence of bias,Expert,5,Qwen3-Plus,Simple,4.591962942019525,1.4961692307692307,True
-Perceived absence of bias,Expert,5,Qwen3-Plus,Hard,4.5626666071536235,1.4961692307692307,True
-Perceived absence of bias,Parent,5,Qwen3-Plus,Simple,4.313748969143306,1.4961692307692307,True
-Perceived absence of bias,Parent,5,Qwen3-Plus,Hard,4.205461587176377,1.4961692307692307,True
-Perceived absence of bias,Expert,6,Claude Sonnet 4,Simple,4.513472492665665,1.4961692307692307,True
-Perceived absence of bias,Expert,6,Claude Sonnet 4,Hard,4.653040800171366,1.4961692307692307,True
-Perceived absence of bias,Parent,6,Claude Sonnet 4,Simple,4.588300032425937,1.4961692307692307,True
-Perceived absence of bias,Parent,6,Claude Sonnet 4,Hard,4.350170367188606,1.4961692307692307,True
-Perceived absence of bias,Expert,7,GPT-5,Simple,4.496517159886373,1.4961692307692307,True
-Perceived absence of bias,Expert,7,GPT-5,Hard,4.484419056630926,1.4961692307692307,True
-Perceived absence of bias,Parent,7,GPT-5,Simple,4.415162173252749,1.4961692307692307,True
-Perceived absence of bias,Parent,7,GPT-5,Hard,4.444148827808283,1.4961692307692307,True
-Perceived absence of bias,Expert,8,DeepSeek-chat,Simple,4.640879276686758,1.4961692307692307,True
-Perceived absence of bias,Expert,8,DeepSeek-chat,Hard,4.625399899092487,1.4961692307692307,True
-Perceived absence of bias,Parent,8,DeepSeek-chat,Simple,4.362666846213142,1.4961692307692307,True
-Perceived absence of bias,Parent,8,DeepSeek-chat,Hard,4.355914749545615,1.4961692307692307,True
-Perceived absence of bias,Expert,9,Gemini 2.5 Pro,Simple,4.450082056321891,1.4961692307692307,True
-Perceived absence of bias,Expert,9,Gemini 2.5 Pro,Hard,4.587456622867558,1.4961692307692307,True
-Perceived absence of bias,Parent,9,Gemini 2.5 Pro,Simple,4.185259138931802,1.4961692307692307,True
-Perceived absence of bias,Parent,9,Gemini 2.5 Pro,Hard,4.376855242868411,1.4961692307692307,True
-Perceived absence of bias,Expert,10,Vaccination-clinic physicians,Simple,4.394899073318876,1.4961692307692307,True
-Perceived absence of bias,Expert,10,Vaccination-clinic physicians,Hard,4.378595868209726,1.4961692307692307,True
-Perceived absence of bias,Parent,10,Vaccination-clinic physicians,Simple,4.285545859257696,1.4961692307692307,True
-Perceived absence of bias,Parent,10,Vaccination-clinic physicians,Hard,4.091481881367629,1.4961692307692307,True
-Perceived absence of bias,Expert,11,Parents without internet,Simple,4.2605992840084,1.4961692307692307,True
-Perceived absence of bias,Expert,11,Parents without internet,Hard,4.267843007258975,1.4961692307692307,True
-Perceived absence of bias,Parent,11,Parents without internet,Simple,4.084748068591671,1.4961692307692307,True
-Perceived absence of bias,Parent,11,Parents without internet,Hard,3.496417281043549,1.4961692307692307,True
-Perceived absence of bias,Expert,12,Parents with web search,Simple,4.517744124030895,1.4961692307692307,True
-Perceived absence of bias,Expert,12,Parents with web search,Hard,4.308577329140847,1.4961692307692307,True
-Perceived absence of bias,Parent,12,Parents with web search,Simple,4.07874590152478,1.4961692307692307,True
-Perceived absence of bias,Parent,12,Parents with web search,Hard,4.140728063278926,1.4961692307692307,True
-Perceived absence of bias,Expert,13,General practitioners,Simple,4.532011351581761,1.4961692307692307,True
-Perceived absence of bias,Expert,13,General practitioners,Hard,4.358992816856932,1.4961692307692307,True
-Perceived absence of bias,Parent,13,General practitioners,Simple,4.097432444600301,1.4961692307692307,True
-Perceived absence of bias,Parent,13,General practitioners,Hard,4.141427134257247,1.4961692307692307,True
+Accuracy,Expert,1,FV-LLM full configuration,Simple,4.1445066714047,1.4963307692307692,True
+Accuracy,Expert,1,FV-LLM full configuration,Hard,3.797185648278158,1.4963307692307692,True
+Accuracy,Parent,1,FV-LLM full configuration,Simple,4.191737812905681,1.4963307692307692,True
+Accuracy,Parent,1,FV-LLM full configuration,Hard,4.254778206577733,1.4963307692307692,True
+Accuracy,Expert,2,RAG,Simple,4.320538710135597,1.4963307692307692,True
+Accuracy,Expert,2,RAG,Hard,4.171859644811095,1.4963307692307692,True
+Accuracy,Parent,2,RAG,Simple,4.162512521242897,1.4963307692307692,True
+Accuracy,Parent,2,RAG,Hard,4.1922856857958575,1.4963307692307692,True
+Accuracy,Expert,3,RAG+Focus,Simple,4.036762650886456,1.4963307692307692,True
+Accuracy,Expert,3,RAG+Focus,Hard,4.038972082760338,1.4963307692307692,True
+Accuracy,Parent,3,RAG+Focus,Simple,4.184345808380151,1.4963307692307692,True
+Accuracy,Parent,3,RAG+Focus,Hard,4.05319459798085,1.4963307692307692,True
+Accuracy,Expert,4,GPT-4o,Simple,4.134244944938836,1.4963307692307692,True
+Accuracy,Expert,4,GPT-4o,Hard,3.83844866481816,1.4963307692307692,True
+Accuracy,Parent,4,GPT-4o,Simple,4.275127562511094,1.4963307692307692,True
+Accuracy,Parent,4,GPT-4o,Hard,4.0181838228523175,1.4963307692307692,True
+Accuracy,Expert,5,Qwen3-Plus,Simple,4.031445043632305,1.4963307692307692,True
+Accuracy,Expert,5,Qwen3-Plus,Hard,3.68835643213466,1.4963307692307692,True
+Accuracy,Parent,5,Qwen3-Plus,Simple,4.295089676046063,1.4963307692307692,True
+Accuracy,Parent,5,Qwen3-Plus,Hard,4.121817375820217,1.4963307692307692,True
+Accuracy,Expert,6,Claude Sonnet 4,Simple,3.8969414486944673,1.4963307692307692,True
+Accuracy,Expert,6,Claude Sonnet 4,Hard,3.4638923805660538,1.4963307692307692,True
+Accuracy,Parent,6,Claude Sonnet 4,Simple,4.644271692767726,1.4963307692307692,True
+Accuracy,Parent,6,Claude Sonnet 4,Hard,3.9737147528765133,1.4963307692307692,True
+Accuracy,Expert,7,GPT-5,Simple,3.927727084491209,1.4963307692307692,True
+Accuracy,Expert,7,GPT-5,Hard,3.5072209081940904,1.4963307692307692,True
+Accuracy,Parent,7,GPT-5,Simple,4.217870769794479,1.4963307692307692,True
+Accuracy,Parent,7,GPT-5,Hard,4.23182273702506,1.4963307692307692,True
+Accuracy,Expert,8,DeepSeek-chat,Simple,4.156259259750337,1.4963307692307692,True
+Accuracy,Expert,8,DeepSeek-chat,Hard,3.8454601452835977,1.4963307692307692,True
+Accuracy,Parent,8,DeepSeek-chat,Simple,4.0610239872807306,1.4963307692307692,True
+Accuracy,Parent,8,DeepSeek-chat,Hard,4.007364138613057,1.4963307692307692,True
+Accuracy,Expert,9,Gemini 2.5 Pro,Simple,3.8204983775847428,1.4963307692307692,True
+Accuracy,Expert,9,Gemini 2.5 Pro,Hard,3.620305137325366,1.4963307692307692,True
+Accuracy,Parent,9,Gemini 2.5 Pro,Simple,3.92631445829013,1.4963307692307692,True
+Accuracy,Parent,9,Gemini 2.5 Pro,Hard,3.9983255926884604,1.4963307692307692,True
+Accuracy,Expert,10,Vaccination-clinic physicians,Simple,2.9107407438509627,1.4963307692307692,True
+Accuracy,Expert,10,Vaccination-clinic physicians,Hard,2.51328328017418,1.4963307692307692,True
+Accuracy,Parent,10,Vaccination-clinic physicians,Simple,4.01496868879442,1.4963307692307692,True
+Accuracy,Parent,10,Vaccination-clinic physicians,Hard,3.6822632836349554,1.4963307692307692,True
+Accuracy,Expert,11,Parents without internet,Simple,2.4258180869458497,1.4963307692307692,True
+Accuracy,Expert,11,Parents without internet,Hard,1.973702355636351,1.4963307692307692,True
+Accuracy,Parent,11,Parents without internet,Simple,3.3935046693401105,1.4963307692307692,True
+Accuracy,Parent,11,Parents without internet,Hard,3.198876887839772,1.4963307692307692,True
+Accuracy,Expert,12,Parents with web search,Simple,2.8393123167843624,1.4963307692307692,True
+Accuracy,Expert,12,Parents with web search,Hard,2.820942522757952,1.4963307692307692,True
+Accuracy,Parent,12,Parents with web search,Simple,3.7735191956775775,1.4963307692307692,True
+Accuracy,Parent,12,Parents with web search,Hard,3.709398285153757,1.4963307692307692,True
+Accuracy,Expert,13,General practitioners,Simple,3.1401024802874886,1.4963307692307692,True
+Accuracy,Expert,13,General practitioners,Hard,2.4762066586470777,1.4963307692307692,True
+Accuracy,Parent,13,General practitioners,Simple,3.8981299641992466,1.4963307692307692,True
+Accuracy,Parent,13,General practitioners,Hard,3.925123956346494,1.4963307692307692,True
+Clarity,Expert,1,FV-LLM full configuration,Simple,4.166952548864105,1.4963307692307692,True
+Clarity,Expert,1,FV-LLM full configuration,Hard,3.905070881000304,1.4963307692307692,True
+Clarity,Parent,1,FV-LLM full configuration,Simple,4.3845890669000624,1.4963307692307692,True
+Clarity,Parent,1,FV-LLM full configuration,Hard,4.272648559781681,1.4963307692307692,True
+Clarity,Expert,2,RAG,Simple,4.280818026461066,1.4963307692307692,True
+Clarity,Expert,2,RAG,Hard,4.235507971974615,1.4963307692307692,True
+Clarity,Parent,2,RAG,Simple,4.231265792636427,1.4963307692307692,True
+Clarity,Parent,2,RAG,Hard,4.132929066401066,1.4963307692307692,True
+Clarity,Expert,3,RAG+Focus,Simple,4.047773139903087,1.4963307692307692,True
+Clarity,Expert,3,RAG+Focus,Hard,4.06366568881016,1.4963307692307692,True
+Clarity,Parent,3,RAG+Focus,Simple,4.364565601310316,1.4963307692307692,True
+Clarity,Parent,3,RAG+Focus,Hard,4.171030562437198,1.4963307692307692,True
+Clarity,Expert,4,GPT-4o,Simple,4.205659599711131,1.4963307692307692,True
+Clarity,Expert,4,GPT-4o,Hard,3.918713078306971,1.4963307692307692,True
+Clarity,Parent,4,GPT-4o,Simple,4.376799811752917,1.4963307692307692,True
+Clarity,Parent,4,GPT-4o,Hard,3.9744105845725732,1.4963307692307692,True
+Clarity,Expert,5,Qwen3-Plus,Simple,4.136717041514594,1.4963307692307692,True
+Clarity,Expert,5,Qwen3-Plus,Hard,3.8750290220974004,1.4963307692307692,True
+Clarity,Parent,5,Qwen3-Plus,Simple,4.300740944333629,1.4963307692307692,True
+Clarity,Parent,5,Qwen3-Plus,Hard,4.171910860089203,1.4963307692307692,True
+Clarity,Expert,6,Claude Sonnet 4,Simple,3.8867529969802734,1.4963307692307692,True
+Clarity,Expert,6,Claude Sonnet 4,Hard,3.6972004293332317,1.4963307692307692,True
+Clarity,Parent,6,Claude Sonnet 4,Simple,4.608770114079353,1.4963307692307692,True
+Clarity,Parent,6,Claude Sonnet 4,Hard,4.044583896885757,1.4963307692307692,True
+Clarity,Expert,7,GPT-5,Simple,3.856957163659339,1.4963307692307692,True
+Clarity,Expert,7,GPT-5,Hard,3.5723394420578263,1.4963307692307692,True
+Clarity,Parent,7,GPT-5,Simple,4.238186527898799,1.4963307692307692,True
+Clarity,Parent,7,GPT-5,Hard,4.257389119950668,1.4963307692307692,True
+Clarity,Expert,8,DeepSeek-chat,Simple,4.219589113698481,1.4963307692307692,True
+Clarity,Expert,8,DeepSeek-chat,Hard,4.120796729204951,1.4963307692307692,True
+Clarity,Parent,8,DeepSeek-chat,Simple,4.260725644522228,1.4963307692307692,True
+Clarity,Parent,8,DeepSeek-chat,Hard,3.9289535937264723,1.4963307692307692,True
+Clarity,Expert,9,Gemini 2.5 Pro,Simple,4.004619664334767,1.4963307692307692,True
+Clarity,Expert,9,Gemini 2.5 Pro,Hard,3.7458963414743396,1.4963307692307692,True
+Clarity,Parent,9,Gemini 2.5 Pro,Simple,4.034622154111732,1.4963307692307692,True
+Clarity,Parent,9,Gemini 2.5 Pro,Hard,4.087671007083248,1.4963307692307692,True
+Clarity,Expert,10,Vaccination-clinic physicians,Simple,2.8968912352693046,1.4963307692307692,True
+Clarity,Expert,10,Vaccination-clinic physicians,Hard,2.566410006315953,1.4963307692307692,True
+Clarity,Parent,10,Vaccination-clinic physicians,Simple,3.6665624163447363,1.4963307692307692,True
+Clarity,Parent,10,Vaccination-clinic physicians,Hard,3.517756413944345,1.4963307692307692,True
+Clarity,Expert,11,Parents without internet,Simple,2.418451586181549,1.4963307692307692,True
+Clarity,Expert,11,Parents without internet,Hard,1.9835700832160734,1.4963307692307692,True
+Clarity,Parent,11,Parents without internet,Simple,3.3779323384681037,1.4963307692307692,True
+Clarity,Parent,11,Parents without internet,Hard,3.207279948716889,1.4963307692307692,True
+Clarity,Expert,12,Parents with web search,Simple,2.7872325957825073,1.4963307692307692,True
+Clarity,Expert,12,Parents with web search,Hard,2.885232059694413,1.4963307692307692,True
+Clarity,Parent,12,Parents with web search,Simple,3.651151468767845,1.4963307692307692,True
+Clarity,Parent,12,Parents with web search,Hard,3.6461541029748625,1.4963307692307692,True
+Clarity,Expert,13,General practitioners,Simple,3.0690815327216483,1.4963307692307692,True
+Clarity,Expert,13,General practitioners,Hard,2.6258945498153534,1.4963307692307692,True
+Clarity,Parent,13,General practitioners,Simple,3.818295138056012,1.4963307692307692,True
+Clarity,Parent,13,General practitioners,Hard,3.6377633085188914,1.4963307692307692,True
+Completeness,Expert,1,FV-LLM full configuration,Simple,3.711775715788532,1.4963307692307692,True
+Completeness,Expert,1,FV-LLM full configuration,Hard,3.5913745480480976,1.4963307692307692,True
+Completeness,Parent,1,FV-LLM full configuration,Simple,4.085430560952778,1.4963307692307692,True
+Completeness,Parent,1,FV-LLM full configuration,Hard,4.08702401538368,1.4963307692307692,True
+Completeness,Expert,2,RAG,Simple,3.95845538294914,1.4963307692307692,True
+Completeness,Expert,2,RAG,Hard,4.014489194450893,1.4963307692307692,True
+Completeness,Parent,2,RAG,Simple,3.921631351189727,1.4963307692307692,True
+Completeness,Parent,2,RAG,Hard,3.8290312698581253,1.4963307692307692,True
+Completeness,Expert,3,RAG+Focus,Simple,3.6044142034341826,1.4963307692307692,True
+Completeness,Expert,3,RAG+Focus,Hard,3.8699445792553213,1.4963307692307692,True
+Completeness,Parent,3,RAG+Focus,Simple,3.914639353690641,1.4963307692307692,True
+Completeness,Parent,3,RAG+Focus,Hard,3.99415795623416,1.4963307692307692,True
+Completeness,Expert,4,GPT-4o,Simple,3.769910548087088,1.4963307692307692,True
+Completeness,Expert,4,GPT-4o,Hard,3.5619324463406477,1.4963307692307692,True
+Completeness,Parent,4,GPT-4o,Simple,4.040050118034683,1.4963307692307692,True
+Completeness,Parent,4,GPT-4o,Hard,3.668814176237614,1.4963307692307692,True
+Completeness,Expert,5,Qwen3-Plus,Simple,3.6430187703107393,1.4963307692307692,True
+Completeness,Expert,5,Qwen3-Plus,Hard,3.6046366038705324,1.4963307692307692,True
+Completeness,Parent,5,Qwen3-Plus,Simple,3.9528997835914534,1.4963307692307692,True
+Completeness,Parent,5,Qwen3-Plus,Hard,3.9348674279419016,1.4963307692307692,True
+Completeness,Expert,6,Claude Sonnet 4,Simple,3.572419198608166,1.4963307692307692,True
+Completeness,Expert,6,Claude Sonnet 4,Hard,3.302871765859046,1.4963307692307692,True
+Completeness,Parent,6,Claude Sonnet 4,Simple,4.2339081111786605,1.4963307692307692,True
+Completeness,Parent,6,Claude Sonnet 4,Hard,3.7952826396127186,1.4963307692307692,True
+Completeness,Expert,7,GPT-5,Simple,3.52653053273365,1.4963307692307692,True
+Completeness,Expert,7,GPT-5,Hard,3.323065616436262,1.4963307692307692,True
+Completeness,Parent,7,GPT-5,Simple,4.035459908319924,1.4963307692307692,True
+Completeness,Parent,7,GPT-5,Hard,4.029556003887151,1.4963307692307692,True
+Completeness,Expert,8,DeepSeek-chat,Simple,4.0742919534291175,1.4963307692307692,True
+Completeness,Expert,8,DeepSeek-chat,Hard,3.5796541865307123,1.4963307692307692,True
+Completeness,Parent,8,DeepSeek-chat,Simple,3.8017335050539742,1.4963307692307692,True
+Completeness,Parent,8,DeepSeek-chat,Hard,3.617007886972558,1.4963307692307692,True
+Completeness,Expert,9,Gemini 2.5 Pro,Simple,3.4032836277947633,1.4963307692307692,True
+Completeness,Expert,9,Gemini 2.5 Pro,Hard,3.3108497686102196,1.4963307692307692,True
+Completeness,Parent,9,Gemini 2.5 Pro,Simple,3.6151861342659535,1.4963307692307692,True
+Completeness,Parent,9,Gemini 2.5 Pro,Hard,3.8094443562232256,1.4963307692307692,True
+Completeness,Expert,10,Vaccination-clinic physicians,Simple,2.56517174000209,1.4963307692307692,True
+Completeness,Expert,10,Vaccination-clinic physicians,Hard,2.2468443055381266,1.4963307692307692,True
+Completeness,Parent,10,Vaccination-clinic physicians,Simple,3.3749690258232783,1.4963307692307692,True
+Completeness,Parent,10,Vaccination-clinic physicians,Hard,3.1090935976849305,1.4963307692307692,True
+Completeness,Expert,11,Parents without internet,Simple,2.062047775076235,1.4963307692307692,True
+Completeness,Expert,11,Parents without internet,Hard,1.8118223235397983,1.4963307692307692,True
+Completeness,Parent,11,Parents without internet,Simple,3.0095025976387833,1.4963307692307692,True
+Completeness,Parent,11,Parents without internet,Hard,2.955422765409322,1.4963307692307692,True
+Completeness,Expert,12,Parents with web search,Simple,2.3948094789062364,1.4963307692307692,True
+Completeness,Expert,12,Parents with web search,Hard,2.598906458642917,1.4963307692307692,True
+Completeness,Parent,12,Parents with web search,Simple,3.266799765033707,1.4963307692307692,True
+Completeness,Parent,12,Parents with web search,Hard,3.4993730978680992,1.4963307692307692,True
+Completeness,Expert,13,General practitioners,Simple,2.5593313558695416,1.4963307692307692,True
+Completeness,Expert,13,General practitioners,Hard,2.1650772301812906,1.4963307692307692,True
+Completeness,Parent,13,General practitioners,Simple,3.40962556439449,1.4963307692307692,True
+Completeness,Parent,13,General practitioners,Hard,3.248733319944205,1.4963307692307692,True
+Empathy,Expert,1,FV-LLM full configuration,Simple,4.185144632484193,1.4963307692307692,True
+Empathy,Expert,1,FV-LLM full configuration,Hard,3.782745142472769,1.4963307692307692,True
+Empathy,Parent,1,FV-LLM full configuration,Simple,4.245579401288956,1.4963307692307692,True
+Empathy,Parent,1,FV-LLM full configuration,Hard,4.009929468815814,1.4963307692307692,True
+Empathy,Expert,2,RAG,Simple,4.13635560469838,1.4963307692307692,True
+Empathy,Expert,2,RAG,Hard,4.139675586392515,1.4963307692307692,True
+Empathy,Parent,2,RAG,Simple,4.076197454208352,1.4963307692307692,True
+Empathy,Parent,2,RAG,Hard,3.8594225962411564,1.4963307692307692,True
+Empathy,Expert,3,RAG+Focus,Simple,4.038735204002271,1.4963307692307692,True
+Empathy,Expert,3,RAG+Focus,Hard,4.043038195440966,1.4963307692307692,True
+Empathy,Parent,3,RAG+Focus,Simple,4.115169382700182,1.4963307692307692,True
+Empathy,Parent,3,RAG+Focus,Hard,3.984584818610603,1.4963307692307692,True
+Empathy,Expert,4,GPT-4o,Simple,4.196126218092968,1.4963307692307692,True
+Empathy,Expert,4,GPT-4o,Hard,3.884345178781884,1.4963307692307692,True
+Empathy,Parent,4,GPT-4o,Simple,4.360625186653609,1.4963307692307692,True
+Empathy,Parent,4,GPT-4o,Hard,3.906674834852909,1.4963307692307692,True
+Empathy,Expert,5,Qwen3-Plus,Simple,4.128042961407741,1.4963307692307692,True
+Empathy,Expert,5,Qwen3-Plus,Hard,3.957590529208999,1.4963307692307692,True
+Empathy,Parent,5,Qwen3-Plus,Simple,4.166277705165336,1.4963307692307692,True
+Empathy,Parent,5,Qwen3-Plus,Hard,4.047258513505233,1.4963307692307692,True
+Empathy,Expert,6,Claude Sonnet 4,Simple,3.9043256589328506,1.4963307692307692,True
+Empathy,Expert,6,Claude Sonnet 4,Hard,3.855779675596006,1.4963307692307692,True
+Empathy,Parent,6,Claude Sonnet 4,Simple,4.536237853282708,1.4963307692307692,True
+Empathy,Parent,6,Claude Sonnet 4,Hard,3.9294453124625806,1.4963307692307692,True
+Empathy,Expert,7,GPT-5,Simple,3.8197573818934467,1.4963307692307692,True
+Empathy,Expert,7,GPT-5,Hard,3.6645609395131666,1.4963307692307692,True
+Empathy,Parent,7,GPT-5,Simple,4.227694604293436,1.4963307692307692,True
+Empathy,Parent,7,GPT-5,Hard,4.144248113086873,1.4963307692307692,True
+Empathy,Expert,8,DeepSeek-chat,Simple,4.183491924681979,1.4963307692307692,True
+Empathy,Expert,8,DeepSeek-chat,Hard,4.090778211070134,1.4963307692307692,True
+Empathy,Parent,8,DeepSeek-chat,Simple,4.21580841666368,1.4963307692307692,True
+Empathy,Parent,8,DeepSeek-chat,Hard,3.853431320032367,1.4963307692307692,True
+Empathy,Expert,9,Gemini 2.5 Pro,Simple,3.8940889617659593,1.4963307692307692,True
+Empathy,Expert,9,Gemini 2.5 Pro,Hard,3.77452271537101,1.4963307692307692,True
+Empathy,Parent,9,Gemini 2.5 Pro,Simple,3.879088595751139,1.4963307692307692,True
+Empathy,Parent,9,Gemini 2.5 Pro,Hard,4.098029493327342,1.4963307692307692,True
+Empathy,Expert,10,Vaccination-clinic physicians,Simple,3.0379046421895235,1.4963307692307692,True
+Empathy,Expert,10,Vaccination-clinic physicians,Hard,2.765267734669829,1.4963307692307692,True
+Empathy,Parent,10,Vaccination-clinic physicians,Simple,3.4044198896314772,1.4963307692307692,True
+Empathy,Parent,10,Vaccination-clinic physicians,Hard,3.158475079285598,1.4963307692307692,True
+Empathy,Expert,11,Parents without internet,Simple,2.5486887363503588,1.4963307692307692,True
+Empathy,Expert,11,Parents without internet,Hard,2.09957367320567,1.4963307692307692,True
+Empathy,Parent,11,Parents without internet,Simple,2.984662557734269,1.4963307692307692,True
+Empathy,Parent,11,Parents without internet,Hard,2.9372140424331095,1.4963307692307692,True
+Empathy,Expert,12,Parents with web search,Simple,2.8115748225008494,1.4963307692307692,True
+Empathy,Expert,12,Parents with web search,Hard,3.234250628895935,1.4963307692307692,True
+Empathy,Parent,12,Parents with web search,Simple,3.25471012557078,1.4963307692307692,True
+Empathy,Parent,12,Parents with web search,Hard,3.4978584884162967,1.4963307692307692,True
+Empathy,Expert,13,General practitioners,Simple,2.888037097209057,1.4963307692307692,True
+Empathy,Expert,13,General practitioners,Hard,2.924351084483986,1.4963307692307692,True
+Empathy,Parent,13,General practitioners,Simple,3.547247551018449,1.4963307692307692,True
+Empathy,Parent,13,General practitioners,Hard,3.359378093354707,1.4963307692307692,True
+Safety,Expert,1,FV-LLM full configuration,Simple,4.122513826568195,1.4963307692307692,True
+Safety,Expert,1,FV-LLM full configuration,Hard,3.8657520666802867,1.4963307692307692,True
+Safety,Parent,1,FV-LLM full configuration,Simple,4.203074672049391,1.4963307692307692,True
+Safety,Parent,1,FV-LLM full configuration,Hard,4.215520643006741,1.4963307692307692,True
+Safety,Expert,2,RAG,Simple,4.257809845649357,1.4963307692307692,True
+Safety,Expert,2,RAG,Hard,4.219416213112192,1.4963307692307692,True
+Safety,Parent,2,RAG,Simple,4.266928233768506,1.4963307692307692,True
+Safety,Parent,2,RAG,Hard,4.158678071572519,1.4963307692307692,True
+Safety,Expert,3,RAG+Focus,Simple,4.065052371149854,1.4963307692307692,True
+Safety,Expert,3,RAG+Focus,Hard,4.0556972768653505,1.4963307692307692,True
+Safety,Parent,3,RAG+Focus,Simple,4.275623491238141,1.4963307692307692,True
+Safety,Parent,3,RAG+Focus,Hard,4.223811030319657,1.4963307692307692,True
+Safety,Expert,4,GPT-4o,Simple,4.0726282680680095,1.4963307692307692,True
+Safety,Expert,4,GPT-4o,Hard,4.031642859111482,1.4963307692307692,True
+Safety,Parent,4,GPT-4o,Simple,4.252438778872501,1.4963307692307692,True
+Safety,Parent,4,GPT-4o,Hard,3.9433086388574097,1.4963307692307692,True
+Safety,Expert,5,Qwen3-Plus,Simple,4.054420788746064,1.4963307692307692,True
+Safety,Expert,5,Qwen3-Plus,Hard,3.878978579406818,1.4963307692307692,True
+Safety,Parent,5,Qwen3-Plus,Simple,4.257946663770293,1.4963307692307692,True
+Safety,Parent,5,Qwen3-Plus,Hard,4.165603949934844,1.4963307692307692,True
+Safety,Expert,6,Claude Sonnet 4,Simple,3.939467796843102,1.4963307692307692,True
+Safety,Expert,6,Claude Sonnet 4,Hard,3.803702506909138,1.4963307692307692,True
+Safety,Parent,6,Claude Sonnet 4,Simple,4.5521347968110755,1.4963307692307692,True
+Safety,Parent,6,Claude Sonnet 4,Hard,4.041153960339257,1.4963307692307692,True
+Safety,Expert,7,GPT-5,Simple,3.9356753356398313,1.4963307692307692,True
+Safety,Expert,7,GPT-5,Hard,3.6904323507285945,1.4963307692307692,True
+Safety,Parent,7,GPT-5,Simple,4.247717910527733,1.4963307692307692,True
+Safety,Parent,7,GPT-5,Hard,4.205809605188177,1.4963307692307692,True
+Safety,Expert,8,DeepSeek-chat,Simple,4.082804936009937,1.4963307692307692,True
+Safety,Expert,8,DeepSeek-chat,Hard,4.026284987513385,1.4963307692307692,True
+Safety,Parent,8,DeepSeek-chat,Simple,4.125325940592181,1.4963307692307692,True
+Safety,Parent,8,DeepSeek-chat,Hard,4.020534517657574,1.4963307692307692,True
+Safety,Expert,9,Gemini 2.5 Pro,Simple,3.9437801657261216,1.4963307692307692,True
+Safety,Expert,9,Gemini 2.5 Pro,Hard,3.7695713922481398,1.4963307692307692,True
+Safety,Parent,9,Gemini 2.5 Pro,Simple,4.035121607518494,1.4963307692307692,True
+Safety,Parent,9,Gemini 2.5 Pro,Hard,4.0781192589884565,1.4963307692307692,True
+Safety,Expert,10,Vaccination-clinic physicians,Simple,3.160066781014904,1.4963307692307692,True
+Safety,Expert,10,Vaccination-clinic physicians,Hard,2.9210044724445927,1.4963307692307692,True
+Safety,Parent,10,Vaccination-clinic physicians,Simple,3.60093536779433,1.4963307692307692,True
+Safety,Parent,10,Vaccination-clinic physicians,Hard,3.4954501397084607,1.4963307692307692,True
+Safety,Expert,11,Parents without internet,Simple,2.452776749142223,1.4963307692307692,True
+Safety,Expert,11,Parents without internet,Hard,2.242458863677001,1.4963307692307692,True
+Safety,Parent,11,Parents without internet,Simple,3.1443076949185493,1.4963307692307692,True
+Safety,Parent,11,Parents without internet,Hard,2.941336161695732,1.4963307692307692,True
+Safety,Expert,12,Parents with web search,Simple,2.9696725027342854,1.4963307692307692,True
+Safety,Expert,12,Parents with web search,Hard,3.200039292557915,1.4963307692307692,True
+Safety,Parent,12,Parents with web search,Simple,3.5653870189575763,1.4963307692307692,True
+Safety,Parent,12,Parents with web search,Hard,3.5417946430258787,1.4963307692307692,True
+Safety,Expert,13,General practitioners,Simple,3.1799281624844067,1.4963307692307692,True
+Safety,Expert,13,General practitioners,Hard,2.7748612056744326,1.4963307692307692,True
+Safety,Parent,13,General practitioners,Simple,3.5398623815699106,1.4963307692307692,True
+Safety,Parent,13,General practitioners,Hard,3.6620242046823317,1.4963307692307692,True
+Perceived absence of bias,Expert,1,FV-LLM full configuration,Simple,4.626870288133423,1.4963307692307692,True
+Perceived absence of bias,Expert,1,FV-LLM full configuration,Hard,4.5529030721590695,1.4963307692307692,True
+Perceived absence of bias,Parent,1,FV-LLM full configuration,Simple,4.429858248927866,1.4963307692307692,True
+Perceived absence of bias,Parent,1,FV-LLM full configuration,Hard,4.402797285960464,1.4963307692307692,True
+Perceived absence of bias,Expert,2,RAG,Simple,4.747974392900442,1.4963307692307692,True
+Perceived absence of bias,Expert,2,RAG,Hard,4.752905559791518,1.4963307692307692,True
+Perceived absence of bias,Parent,2,RAG,Simple,4.4523488089555405,1.4963307692307692,True
+Perceived absence of bias,Parent,2,RAG,Hard,4.351066066706986,1.4963307692307692,True
+Perceived absence of bias,Expert,3,RAG+Focus,Simple,4.6023605678672075,1.4963307692307692,True
+Perceived absence of bias,Expert,3,RAG+Focus,Hard,4.727482429541958,1.4963307692307692,True
+Perceived absence of bias,Parent,3,RAG+Focus,Simple,4.552528894989087,1.4963307692307692,True
+Perceived absence of bias,Parent,3,RAG+Focus,Hard,4.374507721206362,1.4963307692307692,True
+Perceived absence of bias,Expert,4,GPT-4o,Simple,4.701746913584742,1.4963307692307692,True
+Perceived absence of bias,Expert,4,GPT-4o,Hard,4.571805379063065,1.4963307692307692,True
+Perceived absence of bias,Parent,4,GPT-4o,Simple,4.419969669648225,1.4963307692307692,True
+Perceived absence of bias,Parent,4,GPT-4o,Hard,4.294006609294883,1.4963307692307692,True
+Perceived absence of bias,Expert,5,Qwen3-Plus,Simple,4.591832753980001,1.4963307692307692,True
+Perceived absence of bias,Expert,5,Qwen3-Plus,Hard,4.561635323285523,1.4963307692307692,True
+Perceived absence of bias,Parent,5,Qwen3-Plus,Simple,4.3144517876676325,1.4963307692307692,True
+Perceived absence of bias,Parent,5,Qwen3-Plus,Hard,4.205065414936121,1.4963307692307692,True
+Perceived absence of bias,Expert,6,Claude Sonnet 4,Simple,4.513392833750731,1.4963307692307692,True
+Perceived absence of bias,Expert,6,Claude Sonnet 4,Hard,4.653696528350056,1.4963307692307692,True
+Perceived absence of bias,Parent,6,Claude Sonnet 4,Simple,4.594445484197945,1.4963307692307692,True
+Perceived absence of bias,Parent,6,Claude Sonnet 4,Hard,4.351877129612195,1.4963307692307692,True
+Perceived absence of bias,Expert,7,GPT-5,Simple,4.496482107344771,1.4963307692307692,True
+Perceived absence of bias,Expert,7,GPT-5,Hard,4.48429599255664,1.4963307692307692,True
+Perceived absence of bias,Parent,7,GPT-5,Simple,4.4157104158529314,1.4963307692307692,True
+Perceived absence of bias,Parent,7,GPT-5,Hard,4.444353056585268,1.4963307692307692,True
+Perceived absence of bias,Expert,8,DeepSeek-chat,Simple,4.640515346524463,1.4963307692307692,True
+Perceived absence of bias,Expert,8,DeepSeek-chat,Hard,4.6251417894908196,1.4963307692307692,True
+Perceived absence of bias,Parent,8,DeepSeek-chat,Simple,4.362336954488362,1.4963307692307692,True
+Perceived absence of bias,Parent,8,DeepSeek-chat,Hard,4.3588882897655585,1.4963307692307692,True
+Perceived absence of bias,Expert,9,Gemini 2.5 Pro,Simple,4.449820008039022,1.4963307692307692,True
+Perceived absence of bias,Expert,9,Gemini 2.5 Pro,Hard,4.584637816142676,1.4963307692307692,True
+Perceived absence of bias,Parent,9,Gemini 2.5 Pro,Simple,4.184912125501919,1.4963307692307692,True
+Perceived absence of bias,Parent,9,Gemini 2.5 Pro,Hard,4.375888184707614,1.4963307692307692,True
+Perceived absence of bias,Expert,10,Vaccination-clinic physicians,Simple,4.395152445350778,1.4963307692307692,True
+Perceived absence of bias,Expert,10,Vaccination-clinic physicians,Hard,4.378753361508352,1.4963307692307692,True
+Perceived absence of bias,Parent,10,Vaccination-clinic physicians,Simple,4.285981601354141,1.4963307692307692,True
+Perceived absence of bias,Parent,10,Vaccination-clinic physicians,Hard,4.091246568173848,1.4963307692307692,True
+Perceived absence of bias,Expert,11,Parents without internet,Simple,4.260899462221806,1.4963307692307692,True
+Perceived absence of bias,Expert,11,Parents without internet,Hard,4.267968415003309,1.4963307692307692,True
+Perceived absence of bias,Parent,11,Parents without internet,Simple,4.090521865621533,1.4963307692307692,True
+Perceived absence of bias,Parent,11,Parents without internet,Hard,3.533855336922554,1.4963307692307692,True
+Perceived absence of bias,Expert,12,Parents with web search,Simple,4.518111194445972,1.4963307692307692,True
+Perceived absence of bias,Expert,12,Parents with web search,Hard,4.308707633415159,1.4963307692307692,True
+Perceived absence of bias,Parent,12,Parents with web search,Simple,4.080407567308454,1.4963307692307692,True
+Perceived absence of bias,Parent,12,Parents with web search,Hard,4.090778684164673,1.4963307692307692,True
+Perceived absence of bias,Expert,13,General practitioners,Simple,4.532262901290701,1.4963307692307692,True
+Perceived absence of bias,Expert,13,General practitioners,Hard,4.359181923424376,1.4963307692307692,True
+Perceived absence of bias,Parent,13,General practitioners,Simple,4.09768026726178,1.4963307692307692,True
+Perceived absence of bias,Parent,13,General practitioners,Hard,4.152669605895975,1.4963307692307692,True

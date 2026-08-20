@@ -11,7 +11,6 @@ summaries and code-generated figures.
 Included:
 
 - primary and response-length-adjusted mixed-effects models;
-- duplicate-assignment sensitivity analysis;
 - principal component analysis and response-length summaries;
 - difficulty-profile models used for Fig. 3 and Supplementary Fig. S4;
 - scripts for Figs. 1–3 and 5 and Supplementary Figs. S1–S4;
@@ -42,13 +41,15 @@ requirements.txt            Version-pinned Python dependencies
 run_all.py                  Reproduce analyses and figures from the analysis-ready dataset
 ```
 
+Historical scripts, internal review notes, Word-editing utilities and
+intermediate plotting scripts are intentionally excluded.
+
 ## Manuscript output map
 
 | Manuscript output | Analysis script | Figure script or aggregate output |
 |---|---|---|
 | Primary mixed-effects results (Table 2 and Supplementary Table S4) | `scripts/analysis/run_primary_models.py` | `results/primary/` |
 | Response-length-adjusted sensitivity analyses (Supplementary Tables S5–S6) | `scripts/analysis/run_length_adjusted_models.py` | `results/length_adjusted/` |
-| Duplicate-assignment sensitivity analysis | `scripts/analysis/prepare_duplicate_sensitivity.py`, followed by the two model scripts above | `results/sensitivity/` |
 | PCA results (Supplementary Table S2 and Fig. S1) | `scripts/analysis/run_pca.py` | `scripts/figures/figs1_pca.py` |
 | Response-length summary (Supplementary Table S3) | `scripts/analysis/summarize_response_lengths.py` | `results/descriptive/response_length_summary.csv` |
 | Standardized rating profiles (Figs. 1, 2 and S2) | `scripts/analysis/summarize_standardized_scores.py` | `scripts/figures/fig1_standardized_scores.py`, `scripts/figures/fig2_figs2_radar.py` |
@@ -116,11 +117,11 @@ contrasted with vaccination-clinic physicians within each evaluator panel;
 Holm correction was applied within the multiplicity families defined in the
 manuscript.
 
-The primary analysis retained all observed rating records. The duplicate-
-assignment sensitivity analysis retained the first record in archived row
-order for each panel–question–source key and removed subsequent records. The
-single missing clarity rating was analysed by outcome-specific complete-case
-analysis without imputation.
+The frozen analysis-ready dataset contains 2,600 complete ratings for each
+outcome: 1,300 expert-panel ratings and 1,300 parent-panel ratings. It contains
+one record for every panel–question–source combination. `run_all.py` validates
+this complete 2 × 100 × 13 allocation grid and the response metadata before
+fitting any model. No outcome value is imputed during the analysis workflow.
 
 ## Licence
 

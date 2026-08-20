@@ -1,13 +1,13 @@
 panel,item_code,rating_item,PC1_loading,PC2_loading
-Expert,Q1OEAE,Correctness/reliability,-0.42879588,0.27690581
-Expert,Q2OEAA,Clarity,-0.43674055,0.08354033
-Expert,Q3OEAA,Completeness,-0.42781765,0.24634431
-Expert,Q4OEOEOE,Empathy,-0.42742082,-0.05231225
-Expert,Q5OEAA,Fairness/non-misleadingness,-0.43328113,0.02167601
-Expert,Q6OEAEOEOE,Perceived absence of bias,-0.26822146,-0.92328341
+Expert,Q1OEAE,Correctness/reliability,-0.42881127,0.27706432
+Expert,Q2OEAA,Clarity,-0.43675333,0.08404064
+Expert,Q3OEAA,Completeness,-0.42786709,0.24599846
+Expert,Q4OEOEOE,Empathy,-0.42744790,-0.05262370
+Expert,Q5OEAA,Fair and non-misleading,-0.43330307,0.02118845
+Expert,Q6OEAEOEOE,Perceived absence of bias,-0.26801849,-0.92327628
 Parent,Q1OEAE,Correctness/reliability,-0.42015317,0.14677625
 Parent,Q2OEAA,Clarity,-0.40790432,0.26015858
 Parent,Q3OEAA,Completeness,-0.41810682,0.20612438
 Parent,Q4OEOEOE,Empathy,-0.42643585,0.15685312
-Parent,Q5OEAA,Fairness/non-misleadingness,-0.42668317,-0.01141507
+Parent,Q5OEAA,Fair and non-misleading,-0.42668317,-0.01141507
 Parent,Q6OEAEOEOE,Perceived absence of bias,-0.34404362,-0.91845184

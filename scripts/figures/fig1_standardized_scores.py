@@ -43,7 +43,7 @@ args.out_dir.mkdir(parents=True, exist_ok=True)
 dimensions = ['Q1_Accuracy', 'Q2_Clarity', 'Q3_Completeness', 'Q4_Empathy', 'Q5_Safety', 'Q6_Bias']
 dim_labels = [
     'Correctness/\nreliability', 'Clarity', 'Completeness', 'Empathy',
-    'Fairness/non-\nmisleadingness', 'Perceived absence\nof bias'
+    'Fair and non-\nmisleading', 'Perceived absence\nof bias'
 ]
 
 
@@ -52,7 +52,7 @@ label_to_dimension = {
     'Clarity': 'Q2_Clarity',
     'Completeness': 'Q3_Completeness',
     'Empathy': 'Q4_Empathy',
-    'Fairness/non-misleadingness': 'Q5_Safety',
+    'Fair and non-misleading': 'Q5_Safety',
     'Perceived absence of bias': 'Q6_Bias',
 }
 

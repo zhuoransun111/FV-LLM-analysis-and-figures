@@ -47,6 +47,9 @@ def main() -> None:
         bad = within_response_nunique[within_response_nunique != 1].index.tolist()
         raise ValueError(f"Inconsistent lengths within response_id: {bad[:10]}")
 
+    # Each response_id has two distinct rating records (one per evaluator panel)
+    # but only one response text and one length. Selecting one metadata row per
+    # response here does not remove any allocation or rating from the analyses.
     responses = data.drop_duplicates("response_id").copy()
     codebook = pd.read_csv(args.source_codebook)
     responses = responses.merge(codebook, on="group_code", how="left", validate="many_to_one")

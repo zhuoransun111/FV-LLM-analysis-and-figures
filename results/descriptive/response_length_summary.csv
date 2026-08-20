@@ -1,5 +1,5 @@
 group_code,response_source,n_responses,mean_characters,sd_characters,median_characters,Q1_characters,Q3_characters,minimum_characters,maximum_characters
-1,RAG+Focus+function calling (Full Model),100,165.35,44.76,163.00,133.00,191.25,62,285
+1,FV-LLM full configuration,100,165.35,44.76,163.00,133.00,191.25,62,285
 2,RAG,100,183.94,24.16,184.50,167.50,200.00,116,247
 3,RAG+Focus,100,193.50,52.98,187.00,177.00,199.00,144,669
 4,GPT-4o,100,217.30,15.70,218.50,208.75,226.00,178,256
@@ -9,6 +9,6 @@ group_code,response_source,n_responses,mean_characters,sd_characters,median_char
 8,DeepSeek-chat,100,280.11,36.05,282.50,260.75,304.00,189,378
 9,Gemini 2.5 Pro,100,293.12,183.79,247.50,144.00,431.00,5,832
 10,Vaccination-clinic physicians,100,16.53,18.57,11.00,3.00,20.25,1,102
-11,Laypeople without internet,100,6.78,7.98,4.00,3.00,9.00,1,66
-12,Laypeople with internet,100,31.89,62.95,6.50,3.00,23.50,1,331
+11,Parents without internet,100,6.78,7.98,4.00,3.00,9.00,1,66
+12,Parents with web search,100,31.89,62.95,6.50,3.00,23.50,1,331
 13,General practitioners,100,11.44,16.49,4.00,2.00,14.25,1,85

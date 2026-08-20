@@ -25,7 +25,7 @@ plt.rcParams['ps.fonttype'] = 42
 
 labels = [
     'Correctness/reliability', 'Clarity', 'Completeness', 'Empathy',
-    'Fair/non-misleading', 'No perceived bias'
+    'Fair and non-misleading', 'Perceived absence of bias'
 ]
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -82,7 +82,7 @@ ax1.axvline(np.mean(expert_pc1), color='gray', linestyle='--', linewidth=0.6, zo
 
 ax1.set_xlabel(f"PC1 ({summaries['Expert']['PC1_explained_variance_percent']:.2f}% variance explained)")
 ax1.set_ylabel(f"PC2 ({summaries['Expert']['PC2_explained_variance_percent']:.2f}% variance explained)")
-format_axes(ax1, 'Expert population', 'a')
+format_axes(ax1, 'Expert panel', 'a')
 
 # Panel b: parent evaluators
 ax2 = axes[1]
@@ -95,7 +95,7 @@ ax2.axvline(np.mean(parent_pc1), color='gray', linestyle='--', linewidth=0.6, zo
 
 ax2.set_xlabel(f"PC1 ({summaries['Parent']['PC1_explained_variance_percent']:.2f}% variance explained)")
 ax2.set_ylabel(f"PC2 ({summaries['Parent']['PC2_explained_variance_percent']:.2f}% variance explained)")
-format_axes(ax2, 'Parent population', 'b')
+format_axes(ax2, 'Parent panel', 'b')
 
 # Global legend
 handles, lbls = ax1.get_legend_handles_labels()

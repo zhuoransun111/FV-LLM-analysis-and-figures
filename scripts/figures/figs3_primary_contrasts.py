@@ -41,7 +41,7 @@ dimensions = [
     "Clarity",
     "Completeness",
     "Empathy",
-    "Fairness/non-misleadingness",
+    "Fair and non-misleading",
     "Perceived absence of bias",
 ]
 labels = [
@@ -49,7 +49,7 @@ labels = [
     "Clarity",
     "Completeness",
     "Empathy",
-    "Fairness/non-\nmisleadingness",
+    "Fair and non-\nmisleading",
     "Perceived absence\nof bias",
 ]
 rows = pd.read_csv(DATA)

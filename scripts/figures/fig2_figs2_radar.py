@@ -69,7 +69,7 @@ LABELS = [
     "Clarity",
     "Completeness",
     "Empathy",
-    "Fairness/non-\nmisleadingness",
+    "Fair and non-\nmisleading",
     "Perceived absence\nof bias",
 ]
 
@@ -82,7 +82,7 @@ def load_panel(panel: str) -> pd.DataFrame:
         "Clarity": "Q2_Clarity_Z",
         "Completeness": "Q3_Completeness_Z",
         "Empathy": "Q4_Empathy_Z",
-        "Fairness/non-misleadingness": "Q5_Safety_Z",
+        "Fair and non-misleading": "Q5_Safety_Z",
         "Perceived absence of bias": "Q6_Bias_Z",
     }
     data["dimension"] = data["rating_item"].map(label_to_dimension)

@@ -19,7 +19,7 @@ OUTCOMES = {
     "Clarity": "Q2OEAA",
     "Completeness": "Q3OEAA",
     "Empathy": "Q4OEOEOE",
-    "Fairness/non-misleadingness": "Q5OEAA",
+    "Fair and non-misleading": "Q5OEAA",
     "Perceived absence of bias": "Q6OEAEOEOE",
 }
 

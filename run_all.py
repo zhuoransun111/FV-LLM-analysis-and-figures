@@ -32,17 +32,9 @@ def main() -> None:
             f"Restricted analysis dataset not found: {data}. See data/README.md."
         )
 
-    deduplicated = ROOT / "data/analysis_dataset_deduplicated.csv"
-    run(
-        "scripts/analysis/prepare_duplicate_sensitivity.py",
-        "--data", data,
-        "--out", deduplicated,
-        "--audit", "results/sensitivity/duplicate_audit.json",
-    )
+    run("scripts/data/validate_analysis_dataset.py", "--data", data)
     run("scripts/analysis/run_primary_models.py", "--data", data, "--out", "results/primary")
     run("scripts/analysis/run_length_adjusted_models.py", "--data", data, "--out", "results/length_adjusted")
-    run("scripts/analysis/run_primary_models.py", "--data", deduplicated, "--out", "results/sensitivity")
-    run("scripts/analysis/run_length_adjusted_models.py", "--data", deduplicated, "--out", "results/sensitivity")
     run("scripts/analysis/run_pca.py", "--data", data)
     run("scripts/analysis/summarize_response_lengths.py", "--data", data)
     run("scripts/analysis/summarize_standardized_scores.py", "--data", data)

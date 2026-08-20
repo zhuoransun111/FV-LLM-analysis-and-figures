@@ -6,7 +6,6 @@ analysis scripts:
 - `primary/`: primary mixed-effects model contrasts, difficulty effects and
   convergence diagnostics;
 - `length_adjusted/`: response-length-adjusted sensitivity results;
-- `sensitivity/`: duplicate-assignment sensitivity results and audit counts;
 - `descriptive/`: PCA, response-length and standardized-score summaries;
 - `difficulty/`: estimated marginal means used for Figs. 3 and S4.
 

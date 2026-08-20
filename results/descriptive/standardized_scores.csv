@@ -7,45 +7,45 @@ Expert,13,Correctness/reliability,-0.7435864570,0.0953518059,100
 Expert,2,Correctness/reliability,0.6085249085,0.0520002577,100
 Expert,3,Correctness/reliability,0.4936706107,0.0672451215,100
 Expert,4,Correctness/reliability,0.4448660008,0.0758126576,100
-Expert,5,Correctness/reliability,0.2863569617,0.0694755214,101
+Expert,5,Correctness/reliability,0.2826055804,0.0700714135,100
 Expert,6,Correctness/reliability,0.1641905614,0.0948746513,100
 Expert,7,Correctness/reliability,0.1949288083,0.0703697678,100
 Expert,8,Correctness/reliability,0.5526581047,0.0642741862,100
-Expert,9,Correctness/reliability,0.3664645428,0.0711133418,99
+Expert,9,Correctness/reliability,0.3694148484,0.0704604112,100
 Parent,1,Correctness/reliability,0.2015390273,0.0723488895,100
 Parent,10,Correctness/reliability,-0.4430165109,0.1086070334,100
-Parent,11,Correctness/reliability,-0.9437741953,0.1263875694,101
-Parent,12,Correctness/reliability,-0.3741071701,0.1111629629,99
-Parent,13,Correctness/reliability,-0.4209922014,0.1379557718,99
+Parent,11,Correctness/reliability,-0.9367416954,0.1274600562,100
+Parent,12,Correctness/reliability,-0.3868363403,0.1107794747,100
+Parent,13,Correctness/reliability,-0.4260524155,0.1366629607,100
 Parent,2,Correctness/reliability,0.2251234713,0.0795982195,100
-Parent,3,Correctness/reliability,0.2311257640,0.0762467737,100
-Parent,4,Correctness/reliability,0.2662139562,0.0688675935,101
+Parent,3,Correctness/reliability,0.2419871421,0.0753486499,100
+Parent,4,Correctness/reliability,0.2672848537,0.0695513370,100
 Parent,5,Correctness/reliability,0.2212908681,0.0780500162,100
 Parent,6,Correctness/reliability,0.2735893651,0.0742536987,100
 Parent,7,Correctness/reliability,0.2370277453,0.0726420983,100
 Parent,8,Correctness/reliability,0.2920706051,0.0731214151,100
 Parent,9,Correctness/reliability,0.2327338839,0.0820921619,100
-Expert,1,Clarity,0.3945122169,0.0658066435,100
-Expert,10,Clarity,-0.7741985037,0.0861420304,100
-Expert,11,Clarity,-1.2269339496,0.0994896221,100
-Expert,12,Clarity,-0.6872552812,0.1040708574,100
-Expert,13,Clarity,-0.6774719658,0.0977787382,100
-Expert,2,Clarity,0.5743257273,0.0515943801,100
-Expert,3,Clarity,0.4538683451,0.0617146201,100
-Expert,4,Clarity,0.4250346265,0.0722698409,100
-Expert,5,Clarity,0.3234904622,0.0696323298,100
-Expert,6,Clarity,0.1919793752,0.0912799384,100
-Expert,7,Clarity,0.1186801874,0.0864093314,100
-Expert,8,Clarity,0.5646168049,0.0598785522,100
-Expert,9,Clarity,0.3225777321,0.0840693901,99
+Expert,1,Clarity,0.3927376740,0.0657366614,100
+Expert,10,Clarity,-0.7749665417,0.0860488574,100
+Expert,11,Clarity,-1.2271380842,0.0994363493,100
+Expert,12,Clarity,-0.6879807136,0.1039715213,100
+Expert,13,Clarity,-0.6784826073,0.0976773739,100
+Expert,2,Clarity,0.5726405320,0.0515520455,100
+Expert,3,Clarity,0.4514618540,0.0616313660,100
+Expert,4,Clarity,0.4226281354,0.0722248862,100
+Expert,5,Clarity,0.3338952730,0.0711571371,100
+Expert,6,Clarity,0.1894515823,0.0911084816,100
+Expert,7,Clarity,0.1169949921,0.0862642372,100
+Expert,8,Clarity,0.5628422620,0.0598525980,100
+Expert,9,Clarity,0.3259156418,0.0832903044,100
 Parent,1,Clarity,0.2855534914,0.0693422726,100
 Parent,10,Clarity,-0.5059636720,0.1105685514,100
-Parent,11,Clarity,-0.8250373983,0.1254956609,101
-Parent,12,Clarity,-0.3524088357,0.1091237523,99
-Parent,13,Clarity,-0.4501899222,0.1364128088,99
+Parent,11,Clarity,-0.8175267956,0.1265297477,100
+Parent,12,Clarity,-0.3646457240,0.1087178683,100
+Parent,13,Clarity,-0.4544441211,0.1351087841,100
 Parent,2,Clarity,0.2013125971,0.0829870685,100
-Parent,3,Clarity,0.3142127658,0.0724399899,100
-Parent,4,Clarity,0.1987245542,0.0706736280,101
+Parent,3,Clarity,0.3245601060,0.0714555977,100
+Parent,4,Clarity,0.1991205577,0.0713828130,100
 Parent,5,Clarity,0.2220062219,0.0706225074,100
 Parent,6,Clarity,0.2601002673,0.0807505683,100
 Parent,7,Clarity,0.2267550331,0.0725837740,100
@@ -59,19 +59,19 @@ Expert,13,Completeness,-0.8704636572,0.0914515619,100
 Expert,2,Completeness,0.6148445195,0.0601757332,100
 Expert,3,Completeness,0.4710390712,0.0714414876,100
 Expert,4,Completeness,0.4347480322,0.0795742495,100
-Expert,5,Completeness,0.3505070393,0.0683191628,101
+Expert,5,Completeness,0.3469889902,0.0689142539,100
 Expert,6,Completeness,0.2383103520,0.0995644290,100
 Expert,7,Completeness,0.2169041629,0.0700962729,100
 Expert,8,Completeness,0.6829257291,0.0658750057,100
-Expert,9,Completeness,0.3619805332,0.0771305076,99
+Expert,9,Completeness,0.3653838474,0.0764311157,100
 Parent,1,Completeness,0.3793551640,0.0817007413,100
 Parent,10,Completeness,-0.7185390133,0.1087238325,100
-Parent,11,Completeness,-0.9856888149,0.1053501102,101
-Parent,12,Completeness,-0.4086604463,0.1049305432,99
-Parent,13,Completeness,-0.7089324217,0.1271036914,99
+Parent,11,Completeness,-0.9824724991,0.1063593301,100
+Parent,12,Completeness,-0.4176470457,0.1042639414,100
+Parent,13,Completeness,-0.7078497047,0.1258308932,100
 Parent,2,Completeness,0.2286464749,0.0731613956,100
-Parent,3,Completeness,0.3512356156,0.0687368676,100
-Parent,4,Completeness,0.2735088057,0.0681738644,101
+Parent,3,Completeness,0.3591269398,0.0680828760,100
+Parent,4,Completeness,0.2743591768,0.0688536890,100
 Parent,5,Completeness,0.2698062837,0.0720005213,100
 Parent,6,Completeness,0.2992134556,0.0709936260,100
 Parent,7,Completeness,0.3227427120,0.0653575690,100
@@ -85,50 +85,50 @@ Expert,13,Empathy,-0.7168223289,0.1092131884,100
 Expert,2,Empathy,0.4809621430,0.0652051237,100
 Expert,3,Empathy,0.4207146256,0.0653747667,100
 Expert,4,Empathy,0.3891659477,0.0793847127,100
-Expert,5,Empathy,0.3670449334,0.0596432509,101
+Expert,5,Empathy,0.3656080490,0.0602252109,100
 Expert,6,Empathy,0.2848749881,0.0886102354,100
 Expert,7,Empathy,0.1189350719,0.0880523270,100
 Expert,8,Empathy,0.5626892991,0.0543315819,100
-Expert,9,Empathy,0.3320810636,0.0590064211,99
+Expert,9,Empathy,0.3338675867,0.0584406899,100
 Parent,1,Empathy,0.2632780384,0.0788413845,100
 Parent,10,Empathy,-0.6459424831,0.0993967274,100
-Parent,11,Empathy,-0.9743317467,0.1170040643,101
-Parent,12,Empathy,-0.4646566437,0.1017537918,99
-Parent,13,Empathy,-0.5345221823,0.1349958459,99
+Parent,11,Empathy,-0.9683196079,0.1180238946,100
+Parent,12,Empathy,-0.4757655335,0.1013418221,100
+Parent,13,Empathy,-0.5314518125,0.1336743356,100
 Parent,2,Empathy,0.1434583055,0.0789747322,100
-Parent,3,Empathy,0.2821574327,0.0760672555,100
-Parent,4,Empathy,0.3278238484,0.0698918750,101
+Parent,3,Empathy,0.2860235268,0.0759036854,100
+Parent,4,Empathy,0.3295108448,0.0705737563,100
 Parent,5,Empathy,0.2719251523,0.0720849819,100
 Parent,6,Empathy,0.3406444344,0.0709213476,100
 Parent,7,Empathy,0.3135694665,0.0709449563,100
 Parent,8,Empathy,0.3392285469,0.0799314771,100
 Parent,9,Empathy,0.3338411215,0.0777740994,100
-Expert,1,Fairness/non-misleadingness,0.3145421771,0.0742519380,100
-Expert,10,Fairness/non-misleadingness,-0.6125350520,0.0951257063,100
-Expert,11,Fairness/non-misleadingness,-1.2181464120,0.1092486785,100
-Expert,12,Fairness/non-misleadingness,-0.6009345849,0.1105956383,100
-Expert,13,Fairness/non-misleadingness,-0.6627078747,0.1072990016,100
-Expert,2,Fairness/non-misleadingness,0.5117192030,0.0572035992,100
-Expert,3,Fairness/non-misleadingness,0.4168952810,0.0690548615,100
-Expert,4,Fairness/non-misleadingness,0.3778412495,0.0739162865,100
-Expert,5,Fairness/non-misleadingness,0.2631623425,0.0744157194,101
-Expert,6,Fairness/non-misleadingness,0.2352126619,0.0920583901,100
-Expert,7,Fairness/non-misleadingness,0.1732311280,0.0772539368,100
-Expert,8,Fairness/non-misleadingness,0.4518680526,0.0590958075,100
-Expert,9,Fairness/non-misleadingness,0.3507274793,0.0670535023,99
-Parent,1,Fairness/non-misleadingness,0.2644416243,0.0809806409,96
-Parent,10,Fairness/non-misleadingness,-0.5911057735,0.1114473437,97
-Parent,11,Fairness/non-misleadingness,-1.1104231463,0.1337107719,95
-Parent,12,Fairness/non-misleadingness,-0.4190740264,0.1065533948,94
-Parent,13,Fairness/non-misleadingness,-0.5061743585,0.1191055016,91
-Parent,2,Fairness/non-misleadingness,0.2527474786,0.0725411589,97
-Parent,3,Fairness/non-misleadingness,0.3766678965,0.0689858856,96
-Parent,4,Fairness/non-misleadingness,0.2238641082,0.0801189561,93
-Parent,5,Fairness/non-misleadingness,0.2727783679,0.0719389294,94
-Parent,6,Fairness/non-misleadingness,0.3147768104,0.0763459510,91
-Parent,7,Fairness/non-misleadingness,0.2821984010,0.0709291188,90
-Parent,8,Fairness/non-misleadingness,0.3196385929,0.0781253535,94
-Parent,9,Fairness/non-misleadingness,0.3442408957,0.0808676026,92
+Expert,1,Fair and non-misleading,0.3145421771,0.0742519380,100
+Expert,10,Fair and non-misleading,-0.6125350520,0.0951257063,100
+Expert,11,Fair and non-misleading,-1.2181464120,0.1092486785,100
+Expert,12,Fair and non-misleading,-0.6009345849,0.1105956383,100
+Expert,13,Fair and non-misleading,-0.6627078747,0.1072990016,100
+Expert,2,Fair and non-misleading,0.5117192030,0.0572035992,100
+Expert,3,Fair and non-misleading,0.4168952810,0.0690548615,100
+Expert,4,Fair and non-misleading,0.3778412495,0.0739162865,100
+Expert,5,Fair and non-misleading,0.2620138561,0.0751546827,100
+Expert,6,Fair and non-misleading,0.2352126619,0.0920583901,100
+Expert,7,Fair and non-misleading,0.1732311280,0.0772539368,100
+Expert,8,Fair and non-misleading,0.4518680526,0.0590958075,100
+Expert,9,Fair and non-misleading,0.3510003144,0.0663801413,100
+Parent,1,Fair and non-misleading,0.2644416243,0.0809806409,96
+Parent,10,Fair and non-misleading,-0.5911057735,0.1114473437,97
+Parent,11,Fair and non-misleading,-1.1047294063,0.1350182953,94
+Parent,12,Fair and non-misleading,-0.4319851914,0.1062134663,95
+Parent,13,Fair and non-misleading,-0.5048003095,0.1178117762,92
+Parent,2,Fair and non-misleading,0.2527474786,0.0725411589,97
+Parent,3,Fair and non-misleading,0.3846303150,0.0692499805,95
+Parent,4,Fair and non-misleading,0.2238641082,0.0801189561,93
+Parent,5,Fair and non-misleading,0.2727783679,0.0719389294,94
+Parent,6,Fair and non-misleading,0.3147768104,0.0763459510,91
+Parent,7,Fair and non-misleading,0.2821984010,0.0709291188,90
+Parent,8,Fair and non-misleading,0.3196385929,0.0781253535,94
+Parent,9,Fair and non-misleading,0.3442408957,0.0808676026,92
 Expert,1,Perceived absence of bias,0.0230400805,0.1346993527,100
 Expert,10,Perceived absence of bias,-0.3145946818,0.1336529437,100
 Expert,11,Perceived absence of bias,-0.3473815473,0.1012441809,100
@@ -137,18 +137,18 @@ Expert,13,Perceived absence of bias,-0.1202109129,0.0740586683,100
 Expert,2,Perceived absence of bias,0.2198301488,0.0580232689,100
 Expert,3,Perceived absence of bias,0.2080370158,0.0588890922,100
 Expert,4,Perceived absence of bias,0.1541732277,0.0638913152,100
-Expert,5,Perceived absence of bias,-0.0127765412,0.1340380423,101
+Expert,5,Perceived absence of bias,-0.0137813646,0.1353813879,100
 Expert,6,Perceived absence of bias,0.0977371104,0.0598705723,100
 Expert,7,Perceived absence of bias,-0.1518490506,0.1702593565,100
 Expert,8,Perceived absence of bias,0.2603157104,0.0452519674,100
-Expert,9,Perceived absence of bias,0.1834136932,0.0443052058,99
+Expert,9,Perceived absence of bias,0.1824566143,0.0438703571,100
 Parent,1,Perceived absence of bias,0.2068814749,0.0998122562,91
 Parent,10,Perceived absence of bias,-0.2633564624,0.1161261327,84
-Parent,11,Perceived absence of bias,-0.7611987021,0.1587193541,91
-Parent,12,Perceived absence of bias,-0.2438433041,0.1063298921,87
-Parent,13,Perceived absence of bias,-0.3243134176,0.1223737836,86
+Parent,11,Perceived absence of bias,-0.7434583862,0.1594871494,90
+Parent,12,Perceived absence of bias,-0.2678658477,0.1078247326,88
+Parent,13,Perceived absence of bias,-0.3165658432,0.1212068771,87
 Parent,2,Perceived absence of bias,0.1475722360,0.0848183051,95
-Parent,3,Perceived absence of bias,0.3012062143,0.0779526856,89
+Parent,3,Perceived absence of bias,0.3006548581,0.0788416302,88
 Parent,4,Perceived absence of bias,0.1399488878,0.0796452502,88
 Parent,5,Perceived absence of bias,-0.0100531731,0.0835384171,88
 Parent,6,Perceived absence of bias,0.1969497021,0.0652482771,88
