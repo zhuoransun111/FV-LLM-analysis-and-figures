@@ -25,7 +25,7 @@ plt.rcParams['ps.fonttype'] = 42
 
 labels = [
     'Correctness/reliability', 'Clarity', 'Completeness', 'Empathy',
-    'Fair and non-misleading', 'Perceived absence of bias'
+    'Fair and nonmisleading', 'Perceived absence of bias'
 ]
 
 ROOT = Path(__file__).resolve().parents[2]

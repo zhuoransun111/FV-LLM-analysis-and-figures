@@ -24,7 +24,7 @@ the following variables:
 | `Q2OEAA` | Clarity rating (1–5) |
 | `Q3OEAA` | Completeness rating (1–5) |
 | `Q4OEOEOE` | Empathy rating (1–5) |
-| `Q5OEAA` | Fair and non-misleading rating (1–5) |
+| `Q5OEAA` | Fair and nonmisleading rating (1–5) |
 | `Q6OEAEOEOE` | Perceived absence of bias rating (1–5) |
 | `response_length` | Cleaned response length in Chinese characters |
 | `difficulty` | Question difficulty (`Simple` or `Hard`) |

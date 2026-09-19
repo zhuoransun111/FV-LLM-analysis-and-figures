@@ -25,7 +25,7 @@ ITEMS = [
     ("Q2OEAA", "Clarity"),
     ("Q3OEAA", "Completeness"),
     ("Q4OEOEOE", "Empathy"),
-    ("Q5OEAA", "Fair and non-misleading"),
+    ("Q5OEAA", "Fair and nonmisleading"),
     ("Q6OEAEOEOE", "Perceived absence of bias"),
 ]
 

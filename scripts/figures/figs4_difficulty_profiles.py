@@ -89,7 +89,7 @@ SOURCE_TO_CODE = {
 }
 OUTCOME_LABELS = {
     "Accuracy": "Correctness/reliability",
-    "Safety": "Fair and non-misleading",
+    "Safety": "Fair and nonmisleading",
     "Completeness": "Completeness",
     "Clarity": "Clarity",
     "Empathy": "Empathy",

@@ -52,7 +52,7 @@ source_to_model = {
 
 outcome_to_display = {
     'Accuracy': 'Correctness/reliability',
-    'Safety': 'Fair and non-misleading',
+    'Safety': 'Fair and nonmisleading',
 }
 
 
@@ -177,8 +177,8 @@ fig, axes = plt.subplots(2, 2, figsize=(13.5, 9))
 plt.subplots_adjust(wspace=0.45, hspace=0.35)
 
 # Upper row: the fifth scored item, not clinical safety.
-plot_panel(axes[0,0], expert_df, 'Fair and non-misleading', 'Expert: Fair and non-misleading', 'a', best_model='2', hide_xlabel=True)
-plot_panel(axes[0,1], parent_df, 'Fair and non-misleading', 'Parent: Fair and non-misleading', 'b', best_model='3', hide_xlabel=True)
+plot_panel(axes[0,0], expert_df, 'Fair and nonmisleading', 'Expert: Fair and nonmisleading', 'a', best_model='2', hide_xlabel=True)
+plot_panel(axes[0,1], parent_df, 'Fair and nonmisleading', 'Parent: Fair and nonmisleading', 'b', best_model='3', hide_xlabel=True)
 
 # Lower row: human-rated correctness/reliability, not gold-standard factual accuracy.
 plot_panel(axes[1,0], expert_df, 'Correctness/reliability', 'Expert: Correctness/reliability', 'c', best_model='2')

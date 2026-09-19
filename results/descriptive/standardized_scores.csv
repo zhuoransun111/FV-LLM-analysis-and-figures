@@ -103,32 +103,32 @@ Parent,6,Empathy,0.3406444344,0.0709213476,100
 Parent,7,Empathy,0.3135694665,0.0709449563,100
 Parent,8,Empathy,0.3392285469,0.0799314771,100
 Parent,9,Empathy,0.3338411215,0.0777740994,100
-Expert,1,Fair and non-misleading,0.3145421771,0.0742519380,100
-Expert,10,Fair and non-misleading,-0.6125350520,0.0951257063,100
-Expert,11,Fair and non-misleading,-1.2181464120,0.1092486785,100
-Expert,12,Fair and non-misleading,-0.6009345849,0.1105956383,100
-Expert,13,Fair and non-misleading,-0.6627078747,0.1072990016,100
-Expert,2,Fair and non-misleading,0.5117192030,0.0572035992,100
-Expert,3,Fair and non-misleading,0.4168952810,0.0690548615,100
-Expert,4,Fair and non-misleading,0.3778412495,0.0739162865,100
-Expert,5,Fair and non-misleading,0.2620138561,0.0751546827,100
-Expert,6,Fair and non-misleading,0.2352126619,0.0920583901,100
-Expert,7,Fair and non-misleading,0.1732311280,0.0772539368,100
-Expert,8,Fair and non-misleading,0.4518680526,0.0590958075,100
-Expert,9,Fair and non-misleading,0.3510003144,0.0663801413,100
-Parent,1,Fair and non-misleading,0.2644416243,0.0809806409,96
-Parent,10,Fair and non-misleading,-0.5911057735,0.1114473437,97
-Parent,11,Fair and non-misleading,-1.0922337163,0.1338845972,94
-Parent,12,Fair and non-misleading,-0.4443493479,0.1084133023,95
-Parent,13,Fair and non-misleading,-0.5048003095,0.1178117762,92
-Parent,2,Fair and non-misleading,0.2527474786,0.0725411589,97
-Parent,3,Fair and non-misleading,0.3846303150,0.0692499805,95
-Parent,4,Fair and non-misleading,0.2238641082,0.0801189561,93
-Parent,5,Fair and non-misleading,0.2727783679,0.0719389294,94
-Parent,6,Fair and non-misleading,0.3147768104,0.0763459510,91
-Parent,7,Fair and non-misleading,0.2821984010,0.0709291188,90
-Parent,8,Fair and non-misleading,0.3196385929,0.0781253535,94
-Parent,9,Fair and non-misleading,0.3442408957,0.0808676026,92
+Expert,1,Fair and nonmisleading,0.3145421771,0.0742519380,100
+Expert,10,Fair and nonmisleading,-0.6125350520,0.0951257063,100
+Expert,11,Fair and nonmisleading,-1.2181464120,0.1092486785,100
+Expert,12,Fair and nonmisleading,-0.6009345849,0.1105956383,100
+Expert,13,Fair and nonmisleading,-0.6627078747,0.1072990016,100
+Expert,2,Fair and nonmisleading,0.5117192030,0.0572035992,100
+Expert,3,Fair and nonmisleading,0.4168952810,0.0690548615,100
+Expert,4,Fair and nonmisleading,0.3778412495,0.0739162865,100
+Expert,5,Fair and nonmisleading,0.2620138561,0.0751546827,100
+Expert,6,Fair and nonmisleading,0.2352126619,0.0920583901,100
+Expert,7,Fair and nonmisleading,0.1732311280,0.0772539368,100
+Expert,8,Fair and nonmisleading,0.4518680526,0.0590958075,100
+Expert,9,Fair and nonmisleading,0.3510003144,0.0663801413,100
+Parent,1,Fair and nonmisleading,0.2644416243,0.0809806409,96
+Parent,10,Fair and nonmisleading,-0.5911057735,0.1114473437,97
+Parent,11,Fair and nonmisleading,-1.0922337163,0.1338845972,94
+Parent,12,Fair and nonmisleading,-0.4443493479,0.1084133023,95
+Parent,13,Fair and nonmisleading,-0.5048003095,0.1178117762,92
+Parent,2,Fair and nonmisleading,0.2527474786,0.0725411589,97
+Parent,3,Fair and nonmisleading,0.3846303150,0.0692499805,95
+Parent,4,Fair and nonmisleading,0.2238641082,0.0801189561,93
+Parent,5,Fair and nonmisleading,0.2727783679,0.0719389294,94
+Parent,6,Fair and nonmisleading,0.3147768104,0.0763459510,91
+Parent,7,Fair and nonmisleading,0.2821984010,0.0709291188,90
+Parent,8,Fair and nonmisleading,0.3196385929,0.0781253535,94
+Parent,9,Fair and nonmisleading,0.3442408957,0.0808676026,92
 Expert,1,Perceived absence of bias,0.0230400805,0.1346993527,100
 Expert,10,Perceived absence of bias,-0.3145946818,0.1336529437,100
 Expert,11,Perceived absence of bias,-0.3473815473,0.1012441809,100

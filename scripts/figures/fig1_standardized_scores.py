@@ -52,7 +52,7 @@ label_to_dimension = {
     'Clarity': 'Q2_Clarity',
     'Completeness': 'Q3_Completeness',
     'Empathy': 'Q4_Empathy',
-    'Fair and non-misleading': 'Q5_Safety',
+    'Fair and nonmisleading': 'Q5_Safety',
     'Perceived absence of bias': 'Q6_Bias',
 }
 

@@ -41,7 +41,7 @@ dimensions = [
     "Clarity",
     "Completeness",
     "Empathy",
-    "Fair and non-misleading",
+    "Fair and nonmisleading",
     "Perceived absence of bias",
 ]
 labels = [

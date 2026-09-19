@@ -164,7 +164,7 @@
     }
   },
   {
-    "dimension": "Fair and non-misleading",
+    "dimension": "Fair and nonmisleading",
     "n": 2600,
     "converged": true,
     "optimizer": "lbfgs",

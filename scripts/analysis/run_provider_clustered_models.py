@@ -25,7 +25,7 @@ OUTCOMES = {
     "Clarity": "Q2OEAA",
     "Completeness": "Q3OEAA",
     "Empathy": "Q4OEOEOE",
-    "Fair and non-misleading": "Q5OEAA",
+    "Fair and nonmisleading": "Q5OEAA",
     "Perceived absence of bias": "Q6OEAEOEOE",
 }
 SOURCE_NAMES = {"2": "RAG", "3": "RAG+Focus"}

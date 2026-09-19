@@ -172,7 +172,7 @@
     }
   },
   {
-    "dimension": "Fair and non-misleading",
+    "dimension": "Fair and nonmisleading",
     "formula": "Q5OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
     "n": 2600,
     "converged": true,

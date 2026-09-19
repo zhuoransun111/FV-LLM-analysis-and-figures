@@ -82,7 +82,7 @@ def load_panel(panel: str) -> pd.DataFrame:
         "Clarity": "Q2_Clarity_Z",
         "Completeness": "Q3_Completeness_Z",
         "Empathy": "Q4_Empathy_Z",
-        "Fair and non-misleading": "Q5_Safety_Z",
+        "Fair and nonmisleading": "Q5_Safety_Z",
         "Perceived absence of bias": "Q6_Bias_Z",
     }
     data["dimension"] = data["rating_item"].map(label_to_dimension)
@@ -255,7 +255,7 @@ fig_s2.legend(
 fig_s2.text(
     0.5,
     0.945,
-    "Within-rater standardised means converted to a 1–5 display scale",
+    "Within-rater standardized means converted to a 1–5 display scale",
     ha="center",
     fontsize=12,
 )
