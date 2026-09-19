@@ -1,0 +1,115 @@
+[
+  {
+    "dimension": "Correctness/reliability",
+    "formula": "Q1OEAE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3552.4716416950196,
+    "aic": 7168.943283390039,
+    "variance_components": {
+      "evaluator": 0.17454621157102837,
+      "human_provider": 0.13713914208900835,
+      "question": 0.05724180561829146,
+      "response": 0.0003675254935381267
+    },
+    "warnings": [
+      "The MLE may be on the boundary of the parameter space."
+    ],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Clarity",
+    "formula": "Q2OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3549.3491284061347,
+    "aic": 7162.698256812269,
+    "variance_components": {
+      "evaluator": 0.23802338475709964,
+      "human_provider": 0.07103450611002594,
+      "question": 0.03515382433968531,
+      "response": 0.04331601270972522
+    },
+    "warnings": [],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Completeness",
+    "formula": "Q3OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "powell",
+    "llf": -3597.866113939248,
+    "aic": 7259.732227878496,
+    "variance_components": {
+      "evaluator": 0.2760054048063916,
+      "human_provider": 0.12222439822712874,
+      "question": 0.028576594732720204,
+      "response": 0.07172542542798534
+    },
+    "warnings": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals",
+      "MixedLM optimization failed, trying a different optimizer may help.",
+      "Gradient optimization failed, |grad| = 90.641920",
+      "The Hessian matrix at the estimated parameter values is not positive definite."
+    ],
+    "optimizer_attempts": [
+      "lbfgs: did not converge"
+    ]
+  },
+  {
+    "dimension": "Empathy",
+    "formula": "Q4OEOEOE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3555.9069478213405,
+    "aic": 7175.813895642681,
+    "variance_components": {
+      "evaluator": 0.26794912990806397,
+      "human_provider": 0.08619567147197521,
+      "question": 0.025672448874714905,
+      "response": 0.056697422294169915
+    },
+    "warnings": [],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Fair and non-misleading",
+    "formula": "Q5OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3658.788272753596,
+    "aic": 7381.576545507192,
+    "variance_components": {
+      "evaluator": 0.4270339157178927,
+      "human_provider": 0.14688172995591253,
+      "question": 0.28296598232317527,
+      "response": 0.08622488180176571
+    },
+    "warnings": [
+      "The Hessian matrix at the estimated parameter values is not positive definite."
+    ],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Perceived absence of bias",
+    "formula": "Q6OEAEOEOE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple'))",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -2792.6174747759105,
+    "aic": 5649.234949551821,
+    "variance_components": {
+      "evaluator": 0.37682121923579653,
+      "human_provider": 0.010685597474700265,
+      "question": 0.015028741113658341,
+      "response": 0.02361343318049483
+    },
+    "warnings": [],
+    "optimizer_attempts": []
+  }
+]

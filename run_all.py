@@ -32,9 +32,25 @@ def main() -> None:
             f"Restricted analysis dataset not found: {data}. See data/README.md."
         )
 
-    run("scripts/data/validate_analysis_dataset.py", "--data", data)
+    run(
+        "scripts/data/validate_analysis_dataset.py",
+        "--data", data,
+        "--out", "results/data_validation.json",
+    )
     run("scripts/analysis/run_primary_models.py", "--data", data, "--out", "results/primary")
     run("scripts/analysis/run_length_adjusted_models.py", "--data", data, "--out", "results/length_adjusted")
+    run(
+        "scripts/analysis/run_provider_clustered_models.py",
+        "--data", data,
+        "--out", "results/provider_clustered",
+    )
+    run(
+        "scripts/analysis/run_provider_clustered_models.py",
+        "--data", data,
+        "--out", "results/provider_clustered",
+        "--adjust-length",
+    )
+    run("scripts/analysis/summarize_provider_sensitivity.py")
     run("scripts/analysis/run_pca.py", "--data", data)
     run("scripts/analysis/summarize_response_lengths.py", "--data", data)
     run("scripts/analysis/summarize_standardized_scores.py", "--data", data)

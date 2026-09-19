@@ -8,7 +8,8 @@ __pycache__/
 *.log
 .venv/
 
-# Restricted participant-level data obtained under a data-use agreement.
-data/analysis_dataset.csv
-data/analysis_dataset_deduplicated.csv
-
+# Only the public data documentation and response-source codebook belong in Git.
+# All analysis datasets, provider mappings, workbooks and response text remain local.
+data/*
+!data/README.md
+!data/source_codebook.csv

@@ -1,0 +1,125 @@
+[
+  {
+    "dimension": "Correctness/reliability",
+    "formula": "Q1OEAE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3576.014431961192,
+    "aic": 7218.028863922384,
+    "variance_components": {
+      "evaluator": 0.310436733333924,
+      "human_provider": 0.1336281939069226,
+      "question": 0.3248110566024972,
+      "response": 0.07923606292112848
+    },
+    "warnings": [
+      "The Hessian matrix at the estimated parameter values is not positive definite."
+    ],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Clarity",
+    "formula": "Q2OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3548.2750176539466,
+    "aic": 7162.550035307893,
+    "variance_components": {
+      "evaluator": 0.23880631105354425,
+      "human_provider": 0.06311272576360923,
+      "question": 0.03635749826144233,
+      "response": 7.022484221289155e-06
+    },
+    "warnings": [
+      "The MLE may be on the boundary of the parameter space."
+    ],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Completeness",
+    "formula": "Q3OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "powell",
+    "llf": -3576.348056466879,
+    "aic": 7218.696112933758,
+    "variance_components": {
+      "evaluator": 0.2747429186757369,
+      "human_provider": 0.08532696553347476,
+      "question": 0.028096205000762924,
+      "response": 0.05910864637909054
+    },
+    "warnings": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals",
+      "MixedLM optimization failed, trying a different optimizer may help.",
+      "Gradient optimization failed, |grad| = 96.354610",
+      "The Hessian matrix at the estimated parameter values is not positive definite."
+    ],
+    "optimizer_attempts": [
+      "lbfgs: did not converge"
+    ]
+  },
+  {
+    "dimension": "Empathy",
+    "formula": "Q4OEOEOE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3551.0347180688714,
+    "aic": 7168.069436137743,
+    "variance_components": {
+      "evaluator": 0.2686892361381953,
+      "human_provider": 0.07271483281878025,
+      "question": 0.025432525716807618,
+      "response": 0.054716466153349755
+    },
+    "warnings": [],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Fair and non-misleading",
+    "formula": "Q5OEAA ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "lbfgs",
+    "llf": -3653.0766019895073,
+    "aic": 7372.1532039790145,
+    "variance_components": {
+      "evaluator": 0.4271632363648997,
+      "human_provider": 0.14158717220944575,
+      "question": 0.27792709396953175,
+      "response": 0.08652123414328554
+    },
+    "warnings": [
+      "The Hessian matrix at the estimated parameter values is not positive definite."
+    ],
+    "optimizer_attempts": []
+  },
+  {
+    "dimension": "Perceived absence of bias",
+    "formula": "Q6OEAEOEOE ~ C(group_code, Treatment(reference='10')) * C(panel, Treatment(reference='Expert')) + C(difficulty, Treatment(reference='Simple')) + length_100",
+    "n": 2600,
+    "converged": true,
+    "optimizer": "powell",
+    "llf": -2785.066968042476,
+    "aic": 5636.133936084952,
+    "variance_components": {
+      "evaluator": 0.36255936494685903,
+      "human_provider": 0.009896828168300901,
+      "question": 0.010419940559315916,
+      "response": 5.247857015363512e-11
+    },
+    "warnings": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals",
+      "MixedLM optimization failed, trying a different optimizer may help.",
+      "Gradient optimization failed, |grad| = 49.909262",
+      "The MLE may be on the boundary of the parameter space.",
+      "The MLE may be on the boundary of the parameter space."
+    ],
+    "optimizer_attempts": [
+      "lbfgs: did not converge"
+    ]
+  }
+]

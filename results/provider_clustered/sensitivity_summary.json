@@ -1,0 +1,18 @@
+{
+  "primary": {
+    "contrasts": 24,
+    "maximum_absolute_beta_change": 0.047383293456528475,
+    "holm_significance_changes": 0,
+    "holm_significant_base": 24,
+    "holm_significant_provider_clustered": 24,
+    "provider_clustered_confidence_intervals_excluding_zero": 24
+  },
+  "length_adjusted": {
+    "contrasts": 24,
+    "maximum_absolute_beta_change": 0.0969636290315587,
+    "holm_significance_changes": 0,
+    "holm_significant_base": 21,
+    "holm_significant_provider_clustered": 21,
+    "provider_clustered_confidence_intervals_excluding_zero": 23
+  }
+}

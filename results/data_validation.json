@@ -1,0 +1,23 @@
+{
+  "rows": 2600,
+  "unique_panel_question_source_keys": 2600,
+  "duplicate_key_rows": 0,
+  "missing_expected_keys": 0,
+  "missing_outcome_values": {
+    "Q1OEAE": 0,
+    "Q2OEAA": 0,
+    "Q3OEAA": 0,
+    "Q4OEOEOE": 0,
+    "Q5OEAA": 0,
+    "Q6OEAEOEOE": 0
+  },
+  "panels": [
+    "Expert",
+    "Parent"
+  ],
+  "questions": 100,
+  "response_sources": 13,
+  "anonymous_human_response_providers": 40,
+  "records_per_human_response_provider": 20,
+  "questions_per_human_response_provider": 10
+}

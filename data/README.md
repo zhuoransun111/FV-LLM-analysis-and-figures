@@ -31,6 +31,7 @@ the following variables:
 | `response_id` | Question-by-source response identifier |
 | `group_code` | String/numeric response-source code used by the models |
 | `length_100` | `response_length / 100` |
+| `response_provider` | Anonymous response-provider code for human sources; use a non-applicable marker for model sources |
 
 The source labels corresponding to `group_code` are provided in
 [`source_codebook.csv`](source_codebook.csv).
@@ -40,5 +41,11 @@ six outcomes: 1,300 expert-panel ratings and 1,300 parent-panel ratings. Every
 combination in the 2 panels × 100 questions × 13 response sources appears
 exactly once. `scripts/data/validate_analysis_dataset.py` checks this structure,
 the rating ranges and the response metadata before any model is fitted.
+
+The provider-clustering sensitivity analysis additionally expects 40
+source-specific anonymous `response_provider` codes (10 per human source).
+Each provider authored 10 distinct answers, yielding 20 rating records after
+the expert and parent panels are combined. Provider codes must not contain
+names, platform identifiers, contact details or other direct identifiers.
 
 The file is excluded by `.gitignore`; do not commit it to a public repository.
