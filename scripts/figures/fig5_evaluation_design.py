@@ -79,7 +79,7 @@ def create_figure() -> None:
 
     ax.add_patch(Rectangle((0.35, 0.25), 11.30, 4.00, facecolor="#FCFCFC",
                            edgecolor="#747474", linewidth=1.3, linestyle=(0, (5, 3))))
-    ax.text(6.0, 4.00, "Response-source-blinded dual-perspective evaluation",
+    ax.text(6.0, 4.00, "Response-source-blinded dual-stakeholder evaluation",
             ha="center", va="center", fontsize=9.5, weight="bold")
     box(1.05, 2.90, 4.25, 0.72,
         r"Expert panel ($n$ = 10)" "\n1,300 ratings; one intended rating per response",
