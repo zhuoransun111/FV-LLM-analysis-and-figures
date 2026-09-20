@@ -91,7 +91,7 @@ def create_figure() -> None:
     arrow(7.0, 4.70, 8.82, 3.62)
     box(0.85, 1.52, 10.30, 0.90,
         "Six 1–5 Likert items\nCorrectness/reliability | Clarity | Completeness\n"
-        "Empathy | Fair and nonmisleading | Perceived absence of bias",
+        "Empathy | Fair and non-misleading | Perceived absence of bias",
         size=7.1)
     arrow(3.18, 2.90, 3.18, 2.42)
     arrow(8.82, 2.90, 8.82, 2.42)
